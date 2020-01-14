@@ -1,0 +1,11 @@
+Pokémon
+
+pokemon,
+Pocket Monsters,
+Pokemon,
+Pokemon the Series,
+Pokemon Indigo League,
+Pokémon Adventures on the Orange Islands,
+Pokémon The Johto Journeys,
+Pokémon Johto League Champions,
+Pokémon Master Quest,
