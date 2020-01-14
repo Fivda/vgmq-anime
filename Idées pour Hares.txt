@@ -7,9 +7,10 @@
 -Gintoki (Gintama)
 -Edward (FMA)
 -Spike (Cowboy Bebop)
--Goku (DB) [Reprendre celui de VGM si même artiste]
+-Goku (DB) [Reprendre celui de VGM ou pas à voir]
 -Haruhi Suzumiya (The Melancholy of Haruhi Suzumiya)
 -Rena (Higurashi)
+-Sakura (Cardcaptor)
 -Saitama (One Punch Man)
 -Gon (HxH)
 -Akko (Little Witch Academia)
@@ -30,4 +31,5 @@
 -Haruko (FLCL)
 -Ginko (Mushishi)
 -Yui (K-On!)
--Tsubasa (Captain Tsubasa) [Reprendre celui de VGM si même artiste]
+-Lain (Serial Experiments Lain)
+-Tsubasa (Captain Tsubasa) [Reprendre celui de VGM ou pas à voir]
