@@ -17,3 +17,5 @@ Suruga Monkey
 ////////
 Nadeko Snake
 ///////
+Tsubasa Cat
+/////////
