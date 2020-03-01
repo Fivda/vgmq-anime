@@ -1,8 +1,8 @@
 Death Note
 https://anilist.co/anime/1535/Death-Note/
 2006
-MADHOUSE
-Mystery, Psychological, Supernatural, Thriller
+MADHOUSE,
+Mystery, Psychological, Supernatural, Thriller,
 
 
 Death Note,

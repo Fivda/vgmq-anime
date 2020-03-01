@@ -1,8 +1,8 @@
 City Hunter
 https://anilist.co/anime/1470/City-Hunter/
 1987
-Sunrise
-Comedy, Mystery, Action
+Sunrise,
+Comedy, Mystery, Action,
 
 
 City Hunter,

@@ -1,8 +1,8 @@
 CROSS ANGE Rondo of Angel and Dragon
 https://anilist.co/anime/20806/Cross-Ange-Tenshi-to-Ryuu-no-Rondo/
 2014
-Sunrise
-Action, Ecchi, Mecha, Romance, Sci-Fi
+Sunrise,
+Action, Ecchi, Mecha, Romance, Sci-Fi,
 
 
 Cross Ange,

@@ -1,8 +1,8 @@
 Coppelion
 https://anilist.co/anime/9479/Coppelion/
 2013
-GoHands
-Action, Sci-Fi
+GoHands,
+Action, Sci-Fi,
 
 
 Coppelion,

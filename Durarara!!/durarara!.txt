@@ -1,8 +1,8 @@
 Durarara!!
 https://anilist.co/anime/6746/Durarara/
 2010
-Brain's Base
-Action, Mystery, Supernatural
+Brain's Base,
+Action, Mystery, Supernatural,
 
 
 durarara,

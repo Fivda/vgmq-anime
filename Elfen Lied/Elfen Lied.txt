@@ -1,8 +1,8 @@
 Elfen Lied
 https://anilist.co/anime/226/Elfen-Lied/
 2004
-Arms
-Action, Drama, Horror, Psychological, Romance, Supernatural, Ecchi
+Arms,
+Action, Drama, Horror, Psychological, Romance, Supernatural, Ecchi,
 
 
 Elfen Lied,
