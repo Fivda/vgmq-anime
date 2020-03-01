@@ -1,8 +1,8 @@
 Another
 https://anilist.co/anime/11111/Another/
 2012
-P.A. Works
-Horror, Mystery, Psychological, Supernatural, Thriller
+P.A. Works,
+Horror, Mystery, Psychological, Supernatural, Thriller,
 
 
 another,

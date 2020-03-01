@@ -1,6 +1,8 @@
 BECK
 https://anilist.co/anime/57/Beck/
 2004
+MADHOUSE,
+Comedy, Drama, Music, Slice of Life,
 
 
 beck,

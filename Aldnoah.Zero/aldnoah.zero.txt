@@ -1,8 +1,8 @@
 Aldnoah.Zero
 https://anilist.co/anime/20632/AldnoahZero/
 2014
-A-1 Pictures
-Action, Mecha, Sci-Fi
+A-1 Pictures,
+Action, Mecha, Sci-Fi,
 
 
 aldnoah zero,
