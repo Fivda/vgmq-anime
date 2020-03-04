@@ -85,7 +85,7 @@ Trophée: Tête de Jotaro (JoJo's)
 Fan de Toei Animation [Trouver de nombreuses musiques issues d'anime de Toei Animation] / Toei Animation Fan
 Trophée: Tête de Goku (Dragonball)
  
-Fan de Studio Pierrot [Trouver de nombreuses musiques issues d'anime de David Production] / Studio Pierrot Fan
+Fan de Studio Pierrot [Trouver de nombreuses musiques issues d'anime de Studio Pierrot] / Studio Pierrot Fan
 Trophée: Tête de Naruto (Naruto)
 
 Fan de Yuasa [Trouver de nombreuses musiques issues d'anime de Masaaki Yuasa] / Yuasa Fan
@@ -93,3 +93,9 @@ Trophée: Tête de Kaiba (Kaiba)
 
 Fan d'Hosoda [Trouver de nombreuses musiques issues d'anime de Mamoru Hosoda] / Hosoda Fan
 Trophée: Tête(s) de Ame et/ou Yuki (Les Enfants Loups)
+
+Fan du Shōnen Jump [Trouver de nombreuses musiques issues d'anime adaptés d'oeuvres publiées dans le Shōnen Jump] / Shōnen Jump Fan
+Trophée: Logo Shōnen Jump (Pirate)
+
+Fan de Sunrise [Trouver de nombreuses musiques issues d'anime de Sunrise] / Sunrise Fan
+Trophée: ??? (Gundam ou autre)
