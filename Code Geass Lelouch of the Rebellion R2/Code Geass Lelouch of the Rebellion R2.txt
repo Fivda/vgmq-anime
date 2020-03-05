@@ -5,6 +5,10 @@ Sunrise,
 Action, Drama, Mecha, Sci-Fi, Thriller
 
 
+Code Geass,
+Lelouch of the Rebellion,
+Code Geass Hangyaku no Lelouch,
+Hangyaku no Lelouch,
 Code Geass Lelouch of the Rebellion R2,
 Code Geass Lelouch of the Rebellion 2nd Season,
 Code Geass Lelouch of the Rebellion Second Season,
@@ -18,7 +22,4 @@ Hangyaku no Lelouch R2,
 Hangyaku no Lelouch 2nd Season,
 Hangyaku no Lelouch Second Season,
 Code Geass Lelouch of the Rebellion,
-Code Geass,
-Lelouch of the Rebellion,
-Code Geass Hangyaku no Lelouch,
-Hangyaku no Lelouch,
+
