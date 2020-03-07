@@ -1,7 +1,17 @@
+(Les tags correspondent tous aux noms ci-dessous, juste que c'est en full minuscule du coup)
+
+
+FORMAT /////
+TV, TV Short, Movie, Special, OVA, ONA, Music
+
+
+SOURCE /////
+Original, Manga, Light Novel, Visual Novel, Novel, Video Game, Doujinshi, Other
+
+
 GENRES /////
 Action, Adventure, Comedy, Drama, Ecchi, Fantasy, Horror, Mahou Shoujo, Mecha, Music, Mystery, Psychological, Romance, Sci-Fi, Slice of Life, Sports, Supernatural, Thriller,
 
-(Les tags correspondent tous aux noms ci-dessus, juste que c'est en full minuscule du coup)
 
 STUDIOS ///// (Ordre de pertinence https://anilist.co/search/studios)
 /Exemple: Display Name (tag name)
