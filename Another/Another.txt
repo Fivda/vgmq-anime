@@ -1,6 +1,8 @@
 Another
 https://anilist.co/anime/11111/Another/
-2012
+2012,
+TV,
+Light Novel,
 P.A. Works,
 Horror, Mystery, Psychological, Supernatural, Thriller,
 

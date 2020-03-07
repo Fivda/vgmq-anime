@@ -1,6 +1,8 @@
 Cardcaptor Sakura
 https://anilist.co/anime/232/Cardcaptor-Sakura
-1998
+1998,
+TV,
+Manga,
 MADHOUSE,
 Adventure, Comedy, Drama, Romance, Mahou Shoujo, Fantasy,
 

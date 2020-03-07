@@ -1,6 +1,8 @@
 Claymore
 https://anilist.co/anime/1818/Claymore/
-2007
+2007,
+TV,
+Manga,
 MADHOUSE, DR Movie,
 Action, Adventure, Fantasy, Supernatural, Horror,
 

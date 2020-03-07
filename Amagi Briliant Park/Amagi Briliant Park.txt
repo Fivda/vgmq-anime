@@ -1,6 +1,8 @@
 Amagi Briliant Park
 https://anilist.co/anime/20602/Amagi-Brilliant-Park/
-2014
+2014,
+TV,
+Light Novel,
 Kyoto Animation,
 Comedy, Romance, Fantasy,
 

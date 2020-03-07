@@ -1,6 +1,8 @@
 Berserk ~The Golden Age~ Arc II: The Battle for Doldrey 
 https://anilist.co/anime/12113/Berserk-Ougon-Jidaihen-II--Doldrey-Kouryaku/
-2012
+2012,
+Movie,
+Manga,
 Studio 4°C,
 Action, Adventure, Fantasy, Supernatural, Horror, Drama,
 

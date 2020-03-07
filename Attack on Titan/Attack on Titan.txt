@@ -1,6 +1,8 @@
 Attack on Titan
 https://anilist.co/anime/16498/Shingeki-no-Kyojin/
-2013
+2013,
+TV,
+Manga,
 Wit Studio,
 Action, Drama, Fantasy, Mystery,
 

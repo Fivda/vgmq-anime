@@ -1,6 +1,8 @@
 ACCA: 13 Territory Inspection Dept.
 https://anilist.co/anime/21823/ACCA-13ku-Kansatsuka/
-2017
+2017,
+TV,
+Manga,
 MADHOUSE,
 Drama,
 

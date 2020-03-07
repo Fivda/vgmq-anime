@@ -1,6 +1,8 @@
 City Hunter
 https://anilist.co/anime/1470/City-Hunter/
-1987
+1987,
+TV,
+Manga,
 Sunrise,
 Comedy, Mystery, Action,
 Shonen Jump,

@@ -1,6 +1,8 @@
 Black Jack (TV)
 https://anilist.co/anime/2213/Black-Jack-TV/
-2004
+2004,
+TV,
+Manga,
 Tezuka Productions,
 Drama,
 

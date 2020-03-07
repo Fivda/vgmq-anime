@@ -1,7 +1,9 @@
 Accel World
 https://anilist.co/anime/11759/Accel-World/
-2012
-Sunrise
+2012,
+TV,
+Light Novel,
+Sunrise,
 Action, Romance, Sci-fi
 
 

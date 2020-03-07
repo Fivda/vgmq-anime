@@ -1,6 +1,8 @@
 Children of the Sea
 https://anilist.co/anime/103221/Kaijuu-no-Kodomo/
-2019
+2019,
+Movie,
+Manga,
 Studio 4°C,
 Drama, Mystery, Supernatural,
 

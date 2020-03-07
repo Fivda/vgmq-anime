@@ -1,8 +1,11 @@
 Black Clover
 https://anilist.co/anime/97940/Black-Clover/
-2017
+2017,
+TV,
+Manga,
 Studio Pierrot,
 Action, Adventure, Fantasy, Comedy,
+Shonen Jump,
 
 
 Black Clover,

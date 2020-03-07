@@ -1,6 +1,8 @@
 Boogiepop and Others,
 https://anilist.co/anime/101283/Boogiepop-wa-Warawanai/
-2019
+2019,
+TV,
+Light Novel,
 MADHOUSE,
 Horror, Mystery, Psychological,
 

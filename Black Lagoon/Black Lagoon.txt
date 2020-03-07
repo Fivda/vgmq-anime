@@ -1,6 +1,8 @@
 Black Lagoon
 https://anilist.co/anime/889/Black-Lagoon/
-2006
+2006,
+TV,
+Manga,
 MADHOUSE,
 Action, Drama, Adventure, Thriller,
 

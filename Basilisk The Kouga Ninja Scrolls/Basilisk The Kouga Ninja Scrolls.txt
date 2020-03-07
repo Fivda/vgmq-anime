@@ -1,6 +1,8 @@
 Basilisk The Kouga Ninja Scrolls
 https://anilist.co/anime/67/Basilisk-Kouga-Ninpouchou/
-2005
+2005,
+Tv,
+Manga,
 GONZO,
 Action, Adventure, Fantasy, Romance,
 

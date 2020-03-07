@@ -1,6 +1,8 @@
 Bokurano
 https://anilist.co/anime/1690/Bokurano/
-2007
+2007,
+TV,
+Manga,
 GONZO,
 Drama, Mecha, Psychological, Sci-Fi,
 

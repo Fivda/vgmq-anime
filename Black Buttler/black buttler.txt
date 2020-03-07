@@ -1,6 +1,8 @@
 Black Butler
 https://anilist.co/anime/4898/Kuroshitsuji/
-2008
+2008,
+TV,
+Manga,
 A-1 Pictures,
 Action, Comedy, Fantasy, Supernatural,
 

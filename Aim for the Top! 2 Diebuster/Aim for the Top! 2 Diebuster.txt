@@ -1,6 +1,8 @@
 Aim for the Top! 2 Diebuster
 https://anilist.co/anime/1002/Top-wo-Nerae-2--Diebuster/
-2004
+2004,
+OVA,
+Original,
 Gainax,
 Action, Comedy, Mecha, Sci-Fi,
 

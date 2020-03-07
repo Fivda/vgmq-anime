@@ -1,6 +1,8 @@
 Cutey Honey
 https://anilist.co/anime/1661/Cutey-Honey/
-1973
+1973,
+TV,
+Manga,
 Toei Animation,
 Action, Adventure, Sci-Fi,
 

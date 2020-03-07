@@ -1,6 +1,8 @@
 CØDE:BREAKER
 https://anilist.co/anime/11703/CodeBreaker/
-2012
+2012,
+TV,
+Manga,
 Kinema Citrus,
 Action, Comedy, Supernatural
 

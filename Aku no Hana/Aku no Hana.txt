@@ -1,6 +1,8 @@
 Aku no Hana
 https://anilist.co/anime/16201/Aku-no-Hana/
-2013
+2013,
+TV,
+Manga,
 ZEXCS,
 Drama, Psychological, Romance,
 

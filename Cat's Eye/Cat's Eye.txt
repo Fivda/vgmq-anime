@@ -1,6 +1,8 @@
 Cat's Eye
 https://anilist.co/anime/2043/Cats-Eye/
-1983
+1983,
+TV,
+Manga,
 Tokyo Movie Shinsha,
 Action, Adventure, Comedy, Mystery, Romance,
 

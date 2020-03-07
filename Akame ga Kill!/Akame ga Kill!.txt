@@ -1,6 +1,8 @@
 Akame ga Kill!
 https://anilist.co/anime/20613/Akame-ga-Kill/
-2014
+2014,
+TV,
+Manga,
 White Fox,
 Action, Adventure, Fantasy, Horror, Psychological, Drama,
 
