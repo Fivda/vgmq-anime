@@ -1,6 +1,8 @@
 Infinite∞RYVIUS
 https://anilist.co/anime/593/Mugen-no-Ryvius/
-2000
+1999,
+TV,
+Original,
 Sunrise,
 Drama, Mecha, Psychological, Sci-Fi,
 
