@@ -1,6 +1,8 @@
 Desert Punk
 https://anilist.co/anime/25/Sunabouzu
-2004
+2004,
+TV,
+Manga,
 GONZO,
 Action, Adventure, Comedy, Ecchi, Sci-Fi,
 

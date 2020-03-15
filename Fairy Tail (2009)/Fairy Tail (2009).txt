@@ -1,6 +1,8 @@
 Fairy Tail (2009).txt
 https://anilist.co/anime/6702/Fairy-Tail/
-2009
+2009,
+TV,
+Manga,
 A-1 Pictures,
 Action, Adventure, Comedy, Fantasy,
 

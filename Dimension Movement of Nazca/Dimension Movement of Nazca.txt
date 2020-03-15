@@ -1,6 +1,8 @@
 Dimension Movement of Nazca
 https://anilist.co/anime/1775/Jikuu-Tenshou-Nazca/
-1998
+1998,
+TV,
+Manga,
 Genco, Radix,
 Action, Adventure, Drama, Fantasy,
 

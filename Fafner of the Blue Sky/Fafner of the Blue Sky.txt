@@ -1,6 +1,8 @@
 Fafner of the Blue Sky
 https://anilist.co/anime/75/Soukyuu-no-Fafner-Dead-Aggressor/
-2004
+2004,
+TV,
+Original,
 Xebec,
 Drama, Mecha, Sci-Fi,
 

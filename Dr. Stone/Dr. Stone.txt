@@ -1,6 +1,8 @@
 Dr. Stone
 https://anilist.co/anime/105333/Dr-STONE/
-2019
+2019,
+TV,
+Manga,
 TMS Entertainment,
 Adventure, Sci-Fi, Action, Comedy,
 Shonen Jump,

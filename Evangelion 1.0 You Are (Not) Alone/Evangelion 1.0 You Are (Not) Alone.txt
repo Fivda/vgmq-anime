@@ -1,6 +1,8 @@
 Evangelion: 1.0 You Are Not Alone
 https://anilist.co/anime/2759/Evangelion-Shin-Gekijouban-Jo/
-2007
+2007,
+Movie,
+Original,
 Studio Khara,
 Action, Mecha, Sci-Fi, Drama,
 

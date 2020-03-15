@@ -1,6 +1,8 @@
 Darker than BLACK: Gemini of the Meteor
 https://anilist.co/anime/6573/Darker-than-BLACK-Ryuusei-no-Gemini/
-2009
+2009,
+TV,
+Original,
 BONES,
 Action, Mystery, Sci-Fi,
 

@@ -1,6 +1,8 @@
 Dragon Ball Super
 https://anilist.co/anime/21175/Dragon-Ball-Super/
-2015
+2015,
+TV,
+Manga,
 Toei Animation,
 Action, Adventure, Comedy,
 

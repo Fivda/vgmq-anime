@@ -1,6 +1,8 @@
 Death Note
 https://anilist.co/anime/1535/Death-Note/
-2006
+2006,
+TV,
+Manga,
 MADHOUSE,
 Mystery, Psychological, Supernatural, Thriller,
 Shonen Jump,

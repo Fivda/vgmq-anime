@@ -1,6 +1,8 @@
 Fate/stay night
 https://anilist.co/anime/356/Fatestay-night/
-2006
+2006,
+TV,
+Visual Novel,
 Studio DEEN,
 Action, Fantasy, Romance, Supernatural,
 

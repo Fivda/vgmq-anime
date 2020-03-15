@@ -1,6 +1,8 @@
 Fate/Zero
 https://anilist.co/anime/10087/FateZero/
-2011
+2011,
+TV,
+Light Novel,
 ufotable,
 Action, Fantasy, Supernatural,
 

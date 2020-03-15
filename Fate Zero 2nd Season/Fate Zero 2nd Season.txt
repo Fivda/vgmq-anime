@@ -1,6 +1,8 @@
 Fate/Zero 2nd Season
 https://anilist.co/anime/11741/FateZero-2nd-Season/
-2012
+2012,
+TV,
+Light Novel,
 ufotable,
 Action, Fantasy, Thriller, Supernatural,
 

@@ -1,6 +1,8 @@
 Fate/stay night Unlimited Blade Works
 https://anilist.co/anime/19603/Fatestay-night-Unlimited-Blade-Works/
-2014
+2014,
+TV,
+Visual Novel,
 ufotable,
 Action, Fantasy, Supernatural,
 

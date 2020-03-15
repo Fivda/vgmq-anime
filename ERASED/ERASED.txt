@@ -1,6 +1,8 @@
 ERASED
 https://anilist.co/anime/21234/Boku-Dake-ga-Inai-Machi/
-2016
+2016,
+TV,
+Manga,
 A-1 Pictures,
 Mystery, Psychological, Supernatural, Thriller, Drama,
 

@@ -1,6 +1,8 @@
 Fate/stay night [Heaven's Feel] II. lost butterfly
 https://anilist.co/anime/21718/Fatestay-night-Heavens-Feel-II-lost-butterfly/
-2019
+2019,
+Movie,
+Visual Novel,
 ufotable,
 Action, Fantasy, Psychological, Supernatural,
 

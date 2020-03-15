@@ -1,6 +1,8 @@
 Dragon Ball Z
 https://anilist.co/anime/813/Dragon-Ball-Z/
-1989
+1989,
+TV,
+Manga,
 Toei Animation,
 Action, Adventure, Comedy,
 Shonen Jump,

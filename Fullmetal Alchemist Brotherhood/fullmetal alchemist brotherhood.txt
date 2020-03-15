@@ -1,6 +1,8 @@
 Fullmetal Alchemist: Brotherhood
 https://anilist.co/anime/5114/Hagane-no-Renkinjutsushi-Fullmetal-Alchemist/
-2009
+2009,
+TV,
+Manga,
 BONES,
 Action, Adventure, Drama, Fantasy, Comedy,
 

@@ -1,6 +1,8 @@
 Devilman Crybaby
 https://anilist.co/anime/98460/Devilman-Crybaby/
-2018
+2018,
+ONA,
+Manga,
 Science SARU,
 Horror, Supernatural, Action, Drama, Psychological,
 

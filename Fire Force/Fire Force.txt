@@ -1,6 +1,8 @@
 Fire Force
 https://anilist.co/anime/105310/Enen-no-Shouboutai/
-2019
+2019,
+TV,
+Manga,
 David Production,
 Action, Comedy, Drama, Sci-Fi, Supernatural, Ecchi,
 

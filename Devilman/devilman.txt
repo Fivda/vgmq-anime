@@ -1,6 +1,8 @@
 Devilman
 https://anilist.co/anime/2252/Devilman/
-1972
+1972,
+TV,
+Manga,
 Toei Animation,
 Action, Fantasy, Horror, Supernatural,
 

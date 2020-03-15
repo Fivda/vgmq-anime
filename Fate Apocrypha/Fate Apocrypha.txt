@@ -1,6 +1,8 @@
 Fate/Apocrypha
 https://anilist.co/anime/98035/FateApocrypha/
-2017
+2017,
+TV,
+Light Novel,
 A-1 Pictures,
 Action, Fantasy, Supernatural, Drama,
 

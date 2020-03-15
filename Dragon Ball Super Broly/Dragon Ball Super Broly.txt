@@ -1,6 +1,8 @@
 Dragon Ball Super: Broly
 https://anilist.co/anime/101302/Dragon-Ball-Super-Broly/
-2018
+2018,
+Movie,
+Manga,
 Toei Animation,
 Action, Adventure,
 

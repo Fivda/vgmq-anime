@@ -1,6 +1,8 @@
 FLCL
 https://anilist.co/anime/227/FLCL/
-2000
+2000,
+OVA,
+Original,
 Gainax,
 Action, Comedy, Mecha, Sci-Fi,
 
