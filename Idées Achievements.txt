@@ -127,5 +127,14 @@ Trophée: ???
 Fan de Hideki Taniuchi [Trouver de nombreuses musiques de Hideki Taniuchi] / Hideki Taniuchi Fan
 Trophée: ???
 
-Fan de Production I.G [Trouver de nombreuses musiques d'anime Production I.G] / Production I.G Fan
+Fan de Production I.G [Trouver de nombreuses musiques d'anime de Production I.G] / Production I.G Fan
 Trophée: Tête d'Hinata (Haikyu)
+
+Fan de Light Novel [Trouver de nombreuses musiques d'anime adaptés de Light Novel] / Light Novel Fan
+Trophée: ???
+
+Fan de Visual Novel [Trouver de nombreuses musiques d'anime adaptés de Visual Novel] / Visual Novel Fan
+Trophée: ???
+
+Fan de Film d'animation [Trouver de nombreuses musiques d'anime adaptés de films d'animation] / Movie Fan
+Trophée: ???
