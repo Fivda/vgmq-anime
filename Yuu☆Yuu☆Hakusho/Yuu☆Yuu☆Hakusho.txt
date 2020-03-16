@@ -1,6 +1,11 @@
 Yuu☆Yuu☆Hakusho
 https://anilist.co/anime/392/YuuYuuHakusho/
-1992
+1992,
+TV,
+Manga,
+Studio Pierrot,
+Action, Adventure, Comedy, Supernatural,
+Shonen Jump,
 
 
 Yuu Yuu Hakusho,

@@ -1,6 +1,11 @@
 My Hero Academia the Movie: Two Heroes
 https://anilist.co/anime/100723/Boku-no-Hero-Academia-THE-MOVIE-Futari-no-Hero/
-2018
+2018,
+Movie,
+Manga,
+BONES,
+Action, Adventure, Comedy,
+Shonen Jump,
 
 
 my hero academia,

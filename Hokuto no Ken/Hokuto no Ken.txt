@@ -1,6 +1,11 @@
 Hokuto no Ken
 https://anilist.co/anime/967/Hokuto-no-Ken/
-1984
+1984,
+TV,
+Manga,
+Toei Animation,
+Action, Drama, Sci-Fi,
+Shonen Jump,
 
 
 Hokuto no Ken,

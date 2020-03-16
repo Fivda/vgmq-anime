@@ -1,8 +1,11 @@
 Perfect Blue
 https://anilist.co/anime/437/Perfect-Blue/
-1998
+1998,
+Movie,
+Novel,
 MADHOUSE,
 Drama, Horror, Psychological,
+Satoshi Kon,
 
 
 Perfect Blue,

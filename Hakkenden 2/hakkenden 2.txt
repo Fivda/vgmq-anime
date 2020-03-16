@@ -1,6 +1,10 @@
 Hakkenden: Eight Dogs of the East 2
 https://anilist.co/anime/18055/Hakkenden-Touhou-Hakken-Ibun-2/
-2013
+2013,
+TV,
+Manga,
+Studio DEEN,
+Action, Fantasy, Supernatural,
 
 
 Hakkenden,

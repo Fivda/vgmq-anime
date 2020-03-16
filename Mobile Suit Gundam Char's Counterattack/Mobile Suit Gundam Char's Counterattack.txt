@@ -1,6 +1,10 @@
 Mobile Suit Gundam: Char's Counterattack
 https://anilist.co/anime/87/Kidou-Senshi-Gundam-Gyakushuu-no-Char/
-1988
+1988,
+Movie,
+Novel,
+Sunrise,
+Drama, Mecha, Sci-Fi,
 
 
 mobile suit gundam,

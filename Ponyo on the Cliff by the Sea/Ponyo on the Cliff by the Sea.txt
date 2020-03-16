@@ -1,6 +1,10 @@
 Ponyo on the Cliff by the Sea
 https://anilist.co/anime/2890/Gake-no-Ue-no-Ponyo
-2008
+2008,
+Movie,
+Original,
+Studio Ghibli,
+Adventure, Fantasy,
 
 
 Ponyo,

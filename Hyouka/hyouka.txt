@@ -1,6 +1,10 @@
 Hyouka
 https://anilist.co/anime/12189/Hyouka/
-2012
+2012,
+TV,
+Novel,
+Kyoto Animation,
+Mystery, Romance, Slice of Life, Drama,
 
 
 Hyouka,

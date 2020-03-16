@@ -1,6 +1,11 @@
 One Piece Film Gold
 https://anilist.co/anime/21335/One-Piece-Film-Gold/
-2016
+2016,
+Movie,
+Original,
+Toei Animation,
+Action, Adventure, Comedy, Drama, Fantasy,
+Shonen Jump,
 
 
 one piece,

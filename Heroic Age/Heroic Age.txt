@@ -1,6 +1,10 @@
 Heroic Age
 https://anilist.co/anime/2002/Heroic-Age/
-2007
+2007,
+TV,
+Original,
+Xebec,
+Action, Mecha, Sci-Fi,
 
 
 Heroic Age,

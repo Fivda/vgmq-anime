@@ -1,6 +1,11 @@
 Naruto
 https://anilist.co/anime/20/Naruto/
-2002
+2002,
+TV,
+Manga,
+Studio Pierrot,
+Action, Comedy,
+Shonen Jump,
 
 
 naruto,

@@ -1,6 +1,10 @@
 Kirby: Right Back at Ya!
 https://anilist.co/anime/2390/Hoshi-no-Kirby/
-2001
+2001,
+TV,
+Video Game,
+Studio Comet, Studio Sign,
+Adventure, Comedy, Fantasy,
 
 
 kirby right back at ya,

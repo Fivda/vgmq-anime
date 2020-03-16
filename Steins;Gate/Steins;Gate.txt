@@ -1,6 +1,10 @@
 Steins;Gate
 https://anilist.co/anime/9253/SteinsGate/
-2011
+2011,
+TV,
+Visual Novel,
+White Fox,
+Psychological, Sci-Fi, Thriller, Drama,
 
 
 Steins Gate,

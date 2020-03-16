@@ -1,6 +1,8 @@
 gintama
 https://anilist.co/anime/918/Gintama/
-2006
+2006,
+TV,
+Manga,
 Sunrise,
 Action, Comedy, Sci-Fi, Drama,
 Shonen Jump,

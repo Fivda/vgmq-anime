@@ -1,6 +1,10 @@
 Mirai Nikki (TV)
 https://anilist.co/anime/10620/Mirai-Nikki-TV/
-2011
+2011,
+TV,
+Manga,
+Asread,
+Action, Mystery, Psychological, Supernatural, Thriller, Horror,
 
 
 Mirai Nikki,

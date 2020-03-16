@@ -1,6 +1,11 @@
 Mazinkaiser
 https://anilist.co/anime/1064/Mazinkaiser/
-2001
+2001,
+OVA,
+Unknown Source,
+Brain's Base,
+Adventure, Comedy, Mecha, Sci-Fi,
+Go Nagai,
 
 
 Mazinkaiser,

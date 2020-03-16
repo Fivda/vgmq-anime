@@ -1,6 +1,10 @@
 Osomatsu-san
 https://anilist.co/anime/21261/Osomatsusan/
-2015
+2015,
+TV,
+Manga,
+Studio Pierrot,
+Comedy, Slice of Life,
 
 
 Osomatsu-san,

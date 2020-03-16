@@ -1,6 +1,10 @@
 Tsuritama
 https://anilist.co/anime/12883/Tsuritama/
-2012
+2012,
+TV,
+Original,
+A-1 Pictures,
+Sci-Fi, Comedy, Slice of Life, Sports,
 
 
 Tsuritama,

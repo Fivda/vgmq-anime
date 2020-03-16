@@ -1,6 +1,10 @@
 Samurai Champloo
 https://anilist.co/anime/205/Samurai-Champloo/
-2004
+2004,
+TV,
+Original,
+Manglobe,
+Adventure, Comedy, Action,
 
 
 samurai champloo,

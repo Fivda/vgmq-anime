@@ -1,6 +1,10 @@
 Touch 
 https://anilist.co/anime/1065/Touch/
-1985
+1985,
+TV,
+Manga,
+Studio Gallop, Group TAC,
+Drama, Romance, Slice of Life, Sports,
 
 
 Touch ,

@@ -1,6 +1,11 @@
 Paranoia Agent
 https://anilist.co/anime/323/Mousou-Dairinin/
-2004
+2004,
+TV,
+Original,
+MADHOUSE,
+Drama, Mystery, Psychological, Supernatural, Thriller,
+Satoshi Kon,
 
 
 Paranoia Agent,

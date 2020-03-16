@@ -1,8 +1,12 @@
 Houseki no Kuni
 https://anilist.co/anime/98707/Houseki-no-Kuni/
-2017
+2017,
+TV,
+Manga,
+Orange,
+Action, Fantasy, Sci-Fi, Drama, Mystery,
 
 
 Houseki no Kuni,
 Land of the Lustrous,
-l'ere des cristaux,
+L'Ere Des Cristaux,

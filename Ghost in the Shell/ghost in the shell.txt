@@ -1,6 +1,8 @@
 Ghost in the Shell
 https://anilist.co/anime/43/Koukaku-Kidoutai/
-1995
+1995,
+Movie,
+Manga,
 Production I.G,
 Psychological, Sci-Fi, Action,
 

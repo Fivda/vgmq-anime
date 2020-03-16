@@ -1,6 +1,10 @@
 Mobile Suit Gundam
 https://anilist.co/anime/80/Kidou-Senshi-Gundam/
-1979
+1979,
+TV,
+Original,
+Sunrise,
+Action, Mecha, Sci-Fi,
 
 
 Mobile Suit Gundam,

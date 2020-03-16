@@ -1,6 +1,10 @@
 Sousei no Aquarion
 https://anilist.co/anime/478/Sousei-no-Aquarion/
-2005
+2005,
+TV,
+Original,
+Satelight,
+Action, Mecha, Romance, Sci-Fi, Supernatural,
 
 
 Aquarion,

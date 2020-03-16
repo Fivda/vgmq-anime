@@ -5,6 +5,7 @@ TV,
 Visual Novel,
 Studio DEEN,
 Action, Fantasy, Romance, Supernatural,
+Type Moon,
 
 
 Fate/stay night,

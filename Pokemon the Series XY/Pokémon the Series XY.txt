@@ -1,6 +1,10 @@
 Pokémon the Series: XY
 https://anilist.co/anime/19291/Pocket-Monsters-XY/
-2013
+2013,
+TV,
+Video Game,
+OLM,
+Adventure, Comedy, Fantasy,
 
 
 Pokemon XY,

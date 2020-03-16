@@ -1,6 +1,10 @@
 Mushishi
 https://anilist.co/anime/457/Mushishi/
-2005
+2005,
+TV,
+Manga,
+Artland,
+Adventure, Mystery, Supernatural, Slice of Life, Fantasy,
 
 
 Mushishi,

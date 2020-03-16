@@ -1,6 +1,10 @@
 Trigun
 https://anilist.co/anime/6/Trigun/
-1998
+1998,
+TV,
+Manga,
+MADHOUSE,
+Action, Comedy, Sci-Fi,
 
 
 Trigun,

@@ -1,6 +1,8 @@
 Ghost in the Shell: Stand Alone Complex: Solid State Society
 https://anilist.co/anime/1566/Koukaku-Kidoutai-Stand-Alone-Complex--Solid-State-Society
-2006
+2006,
+Special,
+Unknown Source,
 Production I.G,
 Mystery, Sci-Fi,
 

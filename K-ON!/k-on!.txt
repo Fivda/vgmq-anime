@@ -1,6 +1,10 @@
 K-ON!
 https://anilist.co/anime/5680/KON/
-2009
+2009,
+TV,
+Manga,
+Kyoto Animation,
+Comedy, Music, Slice of Life,
 
 
 K-ON,

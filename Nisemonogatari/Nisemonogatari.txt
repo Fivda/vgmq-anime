@@ -1,6 +1,10 @@
 Nisemonogatari
 https://anilist.co/anime/11597/Nisemonogatari/
-2012
+2012,
+TV,
+Light Novel,
+Shaft,
+Comedy, Drama, Mystery, Supernatural, Ecchi, Psychological,
 
 
 Nisemonogatari,

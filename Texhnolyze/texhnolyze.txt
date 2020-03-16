@@ -1,6 +1,10 @@
 Texhnolyze
 https://anilist.co/anime/26/Texhnolyze/
-2003
+2003,
+TV,
+Original,
+MADHOUSE,
+Action, Drama, Psychological, Sci-Fi,
 
 
 Texhnolyze,

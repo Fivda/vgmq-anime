@@ -1,6 +1,10 @@
 Mobile Suit Zeta Gundam
 https://anilist.co/anime/85/Kidou-Senshi-Zeta-Gundam/
-1985
+1985,
+TV,
+Original,
+Sunrise,
+Drama, Mecha, Sci-Fi
 
 
 Mobile Suit Zeta Gundam,

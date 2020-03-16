@@ -1,6 +1,10 @@
 Persona 3 the Movie 1: Spring of Birth
 https://anilist.co/anime/14407/Persona-3-the-Movie-1-Spring-of-Birth/
-2013
+2013,
+Movie,
+Video Game,
+AIC A.S.T.A.,
+Adventure, Action, Supernatural,
 
 
 persona 3,

@@ -5,6 +5,7 @@ TV,
 Manga,
 Toei Animation,
 Action, Adventure, Sci-Fi,
+Go Nagai,
 
 
 Cutey Honey,

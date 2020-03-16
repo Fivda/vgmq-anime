@@ -1,6 +1,10 @@
 Outlaw Star
 https://anilist.co/anime/400/Outlaw-Star/
-1998
+1998,
+TV,
+Manga,
+Sunrise,
+Action, Adventure, Comedy, Sci-Fi,
 
 
 Outlaw Star,

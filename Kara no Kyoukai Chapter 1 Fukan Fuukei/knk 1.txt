@@ -1,6 +1,11 @@
 Kara no Kyoukai Chapter 1: Fukan Fuukei
 https://anilist.co/anime/2593/Kara-no-Kyoukai-Fukan-Fuukei/
-2007
+2007,
+Movie,
+Light Novel,
+ufotable,
+Action, Mystery, Supernatural, Thriller, Horror,
+Type Moon,
 
 
 Kara no Kyoukai,

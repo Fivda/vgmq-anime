@@ -1,6 +1,10 @@
 Rockman.EXE
 https://anilist.co/anime/1710/RockmanEXE/
-2002
+2002,
+TV,
+Video Game,
+Xebec,
+Action, Adventure, Comedy, Mecha, Sci-Fi,
 
 
 Rockman EXE,

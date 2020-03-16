@@ -1,6 +1,10 @@
 Ranma ½
 https://anilist.co/anime/210/Ranma-/
-1989
+1989,
+TV,
+Manga,
+Studio DEEN,
+Comedy, Slice of Life, Action, Romance, Ecchi,
 
 
 Ranma 1/2,

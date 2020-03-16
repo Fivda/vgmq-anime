@@ -1,6 +1,10 @@
 Nichijou
 https://anilist.co/anime/10165/Nichijou/
-2011
+2011,
+TV,
+Manga,
+Kyoto Animation,
+Comedy, Slice of Life,
 
 
 Nichijou,

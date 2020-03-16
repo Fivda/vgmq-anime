@@ -1,6 +1,11 @@
 Kara no Kyoukai Chapter 3: Tsuukaku Zanryuu
 https://anilist.co/anime/3783/Kara-no-Kyoukai-Tsuukaku-Zanryuu/
-2008
+2008,
+Movie,
+Light Novel,
+ufotable,
+Action, Drama, Mystery, Supernatural, Thriller,
+Type Moon,
 
 
 Kara no Kyoukai,

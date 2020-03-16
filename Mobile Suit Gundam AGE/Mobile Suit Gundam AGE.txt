@@ -1,6 +1,10 @@
 Mobile Suit Gundam AGE
 https://anilist.co/anime/10808/Kidou-Senshi-Gundam-AGE/
-2011
+2011,
+TV,
+Original,
+Sunrise,
+Action, Mecha, Sci-Fi,
 
 
 Mobile Suit Gundam AGE,

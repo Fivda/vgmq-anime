@@ -1,6 +1,10 @@
 Persona 3 the Movie 3: Falling Down
 https://anilist.co/anime/20737/Persona-3-the-Movie-3-Falling-Down/
-2015
+2015,
+Movie,
+Video Game,
+A-1 Pictures,
+Action, Supernatural,
 
 
 persona 3,

@@ -1,6 +1,10 @@
 Power Stone
 https://anilist.co/anime/163/Power-Stone
-1999
+1999,
+TV,
+Video Game,
+Studio Pierrot,
+Adventure, Comedy, Fantasy,
 
 
 Power Stone

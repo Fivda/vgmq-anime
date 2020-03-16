@@ -1,6 +1,10 @@
 The Disappearance of Haruhi Suzumiya
 https://anilist.co/anime/7311/Suzumiya-Haruhi-no-Shoushitsu
-2010
+2010,
+Movie,
+Light Novel,
+Kyoto Animation,
+Comedy, Mystery, Romance, Sci-Fi, Supernatural,
 
 
 The Disappearance of Haruhi Suzumiya,

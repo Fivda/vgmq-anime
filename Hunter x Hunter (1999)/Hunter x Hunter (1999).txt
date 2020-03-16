@@ -1,6 +1,11 @@
 Hunter x Hunter (1999)
 https://anilist.co/anime/136/Hunter-x-Hunter
-1999
+1999,
+TV,
+Manga,
+Nippon Animation,
+Action, Adventure, Fantasy,
+Shonen Jump,
 
 
 Hunter x Hunter,

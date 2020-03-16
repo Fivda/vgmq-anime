@@ -1,6 +1,10 @@
 Hanamonogatari
 https://anilist.co/anime/20593/Hanamonogatari/
-2014
+2014,
+TV,
+Light Novel,
+Shaft,
+Drama, Mystery, Psychological, Supernatural,
 
 
 Hanamonogatari,

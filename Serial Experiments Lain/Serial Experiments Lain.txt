@@ -1,6 +1,8 @@
 Serial Experiments Lain
 https://anilist.co/anime/339/Serial-Experiments-Lain/
-1998
+1998,
+TV,
+Original,
 Triangle Staff,
 Drama, Mystery, Psychological, Sci-Fi, Supernatural,
 

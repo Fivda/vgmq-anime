@@ -1,6 +1,10 @@
 The Melancholy of Haruhi Suzumiya (2009)
 https://anilist.co/anime/4382/Suzumiya-Haruhi-no-Yuuutsu-2009/
-2009
+2009,
+TV,
+Light Novel,
+Kyoto Animation,
+Comedy, Mystery, Romance, Sci-Fi, Slice of Life, Supernatural,
 
 
 The Melancholy of Haruhi Suzumiya,

@@ -1,6 +1,11 @@
 Saint Seiya
 https://anilist.co/anime/1254/Saint-Seiya/
-1986
+1986,
+TV,
+Manga,
+Toei Animation,
+Adventure, Fantasy, Sci-Fi, Action,
+Shonen Jump,
 
 
 Saint Seiya,

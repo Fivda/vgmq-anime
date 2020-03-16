@@ -1,6 +1,10 @@
 Moribito: Guardian of the Spirit
 https://anilist.co/anime/1827/Seirei-no-Moribito/
-2007
+2007,
+TV,
+Novel,
+Production I.G,
+Adventure, Fantasy, Action,
 
 
 Moribito,

@@ -1,6 +1,8 @@
 Ghost in the Shell: Stand Alone Complex 2nd GIG
 https://anilist.co/anime/801/Koukaku-Kidoutai-Stand-Alone-Complex-2nd-GIG/
-2004
+2004,
+TV,
+Manga,
 Production I.G,
 Mystery, Sci-Fi, Action,
 

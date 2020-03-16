@@ -1,6 +1,10 @@
 Hajime no Ippo
 https://anilist.co/anime/263/Hajime-no-Ippo/
-2000
+2000,
+TV,
+Manga,
+MADHOUSE,
+Comedy, Drama, Sports,
 
 
 Hajime no Ippo,

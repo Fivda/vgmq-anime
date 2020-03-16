@@ -1,6 +1,10 @@
 Mobile Suit Gundam ZZ
 https://anilist.co/anime/86/Kidou-Senshi-Gundam-ZZ/
-1986
+1986,
+TV,
+Original,
+Sunrise,
+Comedy, Drama, Mecha, Sci-Fi,
 
 
 mobile suit gundam zz,

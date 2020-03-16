@@ -1,6 +1,11 @@
 Kill la Kill
 https://anilist.co/anime/18679/Kill-la-Kill/
-2013
+2013,
+TV,
+Original,
+Trigger,
+Action, Comedy, Ecchi,
+Imaishi,
 
 
 Kill la Kill,

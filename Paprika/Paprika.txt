@@ -1,6 +1,11 @@
 Paprika
 https://anilist.co/anime/1943/Paprika/
-2006
+2006,
+Movie,
+Novel,
+MADHOUSE,
+Fantasy, Mystery, Psychological, Sci-Fi, Thriller,
+Satoshi Kon,
 
 
 Paprika,

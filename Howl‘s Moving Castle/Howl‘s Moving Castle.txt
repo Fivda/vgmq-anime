@@ -1,6 +1,10 @@
 Howl‘s Moving Castle
 https://anilist.co/anime/431/Howl-no-Ugoku-Shiro/
-2004
+2004,
+Movie,
+Novel,
+Studio Ghibli,
+Adventure, Drama, Fantasy, Romance,
 
 
 Howl‘s Moving Castle,

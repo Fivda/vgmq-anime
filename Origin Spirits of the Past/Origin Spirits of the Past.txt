@@ -1,6 +1,10 @@
 Origin: Spirits of the Past
 https://anilist.co/anime/1140/Giniro-no-Kami-no-Agito/
-2006
+2006,
+Movie,
+Original,
+GONZO,
+Adventure, Drama, Fantasy, Romance, Sci-Fi,
 
 
 Origin,

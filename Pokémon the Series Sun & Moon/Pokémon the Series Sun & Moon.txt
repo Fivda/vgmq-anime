@@ -1,6 +1,10 @@
 Pokémon the Series Sun & Moon
 https://anilist.co/anime/97634/Pocket-Monsters-Sun--Moon/
-2016
+2016,
+TV,
+Video Game,
+OLM,
+Adventure, Comedy, Fantasy, Slice of Life, Action,
 
 
 Pokemon Sun & Moon,

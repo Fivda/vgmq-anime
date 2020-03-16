@@ -5,6 +5,7 @@ TV,
 Manga,
 Toei Animation,
 Action, Fantasy, Horror, Supernatural,
+Go Nagai,
 
 
 devilman,

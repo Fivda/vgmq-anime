@@ -1,6 +1,11 @@
 Saint Seiya: Legend of Crimson Youth
 https://anilist.co/anime/1255/Saint-Seiya-Shinku-no-Shounen-Densetsu/
-1988
+1988,
+Movie,
+Manga,
+Toei Animation,
+Adventure, Fantasy, Sci-Fi,
+Shonen Jump,
 
 
 Saint Seiya Legend of Crimson Youth,

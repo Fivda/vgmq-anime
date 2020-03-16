@@ -1,6 +1,10 @@
 Turn A Gundam
 https://anilist.co/anime/95/-Gundam/
-1999
+1999,
+TV,
+Original,
+Sunrise,
+Action, Adventure, Drama, Mecha, Sci-Fi,
 
 
 turn a gundam,

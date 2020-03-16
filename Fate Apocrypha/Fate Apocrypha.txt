@@ -5,6 +5,7 @@ TV,
 Light Novel,
 A-1 Pictures,
 Action, Fantasy, Supernatural, Drama,
+Type Moon,
 
 
 fate apocrypha,

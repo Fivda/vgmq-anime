@@ -1,6 +1,10 @@
 One-Punch Man
 https://anilist.co/anime/21087/One-Punch-Man/
-2015
+2015,
+TV,
+Manga,
+MADHOUSE,
+Action, Comedy, Sci-Fi, Supernatural,
 
 
 One-Punch Man,

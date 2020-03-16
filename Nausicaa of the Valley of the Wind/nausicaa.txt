@@ -1,6 +1,10 @@
 Nausicaä of the Valley of the Wind
 https://anilist.co/anime/572/Kaze-no-Tani-no-Nausica/
-1984
+1984,
+Movie,
+Manga,
+Topcraft, Studio Ghibli,
+Adventure, Fantasy, Sci-Fi, Action, Drama,
 
 
 Nausicaa of the Valley of the Wind,

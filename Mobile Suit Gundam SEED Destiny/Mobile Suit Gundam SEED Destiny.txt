@@ -1,6 +1,10 @@
 Mobile Suit Gundam SEED Destiny
 https://anilist.co/anime/94/Kidou-Senshi-Gundam-Seed-Destiny/
-2004
+2004,
+TV,
+Original,
+Sunrise,
+Drama, Mecha, Romance, Sci-Fi,
 
 
 Mobile Suit Gundam SEED,

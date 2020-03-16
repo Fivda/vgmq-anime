@@ -1,6 +1,10 @@
 K-Project
 https://anilist.co/anime/14467/K/
-2012
+2012,
+TV,
+Original,
+GoHands,
+Action, Supernatural, Comedy, Drama, Mystery, Fantasy,
 
 
 K Project,

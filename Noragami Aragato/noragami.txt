@@ -1,6 +1,10 @@
 Noragami Aragoto
 https://anilist.co/anime/21128/Noragami-Aragoto/
-2015
+2015,
+TV,
+Manga,
+BONES,
+Action, Adventure, Supernatural, Comedy,
 
 
 Noragami,

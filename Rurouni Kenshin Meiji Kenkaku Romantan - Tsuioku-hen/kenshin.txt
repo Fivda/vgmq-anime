@@ -1,6 +1,11 @@
 Rurouni Kenshin: Meiji Kenkaku Romantan ~ Tsuioku-hen
 https://anilist.co/anime/44/Rurouni-Kenshin-Meiji-Kenkaku-Romantan--Tsuiokuhen/
-1999
+1999,
+OVA,
+Manga,
+Studio DEEN,
+Action, Romance, Drama,
+Shonen Jump,
 
 
 Rurouni Kenshin Tsuioku-hen,

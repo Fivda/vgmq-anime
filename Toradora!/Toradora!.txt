@@ -1,6 +1,10 @@
 Toradora!
 https://anilist.co/anime/4224/Toradora/
-2008
+2008,
+TV,
+Light Novel,
+J.C. Staff,
+Comedy, Drama, Romance, Slice of Life,
 
 
 Toradora,

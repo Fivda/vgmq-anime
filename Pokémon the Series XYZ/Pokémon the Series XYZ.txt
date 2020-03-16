@@ -1,6 +1,10 @@
 Pokémon the Series: XYZ
 https://anilist.co/anime/21356/Pocket-Monsters-XYZ/
-2015
+2015,
+TV,
+Video Game,
+OLM,
+Action, Adventure, Comedy, Fantasy,
 
 
 pokemon XYZ,

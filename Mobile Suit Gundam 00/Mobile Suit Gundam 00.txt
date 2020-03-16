@@ -1,6 +1,10 @@
 Mobile Suit Gundam 00
 https://anilist.co/anime/2581/Kidou-Senshi-Gundam-00/
-2007
+2007,
+TV,
+Original,
+Sunrise,
+Action, Drama, Mecha, Sci-Fi,
 
 
 Mobile Suit Gundam 00,

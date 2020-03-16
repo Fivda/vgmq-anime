@@ -1,6 +1,10 @@
 Sakura Wars
 https://anilist.co/anime/561/Sakura-Taisen
-2000
+2000,
+TV,
+Video Game,
+MADHOUSE,
+Adventure, Mecha, Sci-Fi,
 
 
 sakura wars,

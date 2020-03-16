@@ -1,6 +1,10 @@
 Rozen Maiden
 https://anilist.co/anime/64/Rozen-Maiden/
-2004
+2004,
+TV,
+Manga,
+Nomad,
+Action, Comedy, Drama,
 
 
 Rozen Maiden,

@@ -1,6 +1,10 @@
 Princess Mononoke
 https://anilist.co/anime/164/Mononokehime/
-1997
+1997,
+Movie,
+Original,
+Studio Ghibli,
+Action, Adventure, Fantasy, Drama,
 
 
 Princess Mononoke,

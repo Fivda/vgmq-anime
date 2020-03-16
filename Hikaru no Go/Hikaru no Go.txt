@@ -1,6 +1,11 @@
 Hikaru no Go
 https://anilist.co/anime/135/Hikaru-no-Go/
-2001
+2001,
+TV,
+Manga,
+Studio Pierrot,
+Comedy, Supernatural, Sports,
+Shonen Jump,
 
 
 Hikaru no Go,

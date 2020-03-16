@@ -1,6 +1,11 @@
 Mobile Suit Gundam I The Movie
 https://anilist.co/anime/1090/Kidou-Senshi-Gundam-I/
-1981
+1981,
+Movie,
+Original,
+Sunrise,
+Action, Adventure, Drama, Mecha, Sci-Fi,
+
 
 mobile suit gundam,
 mobile suit gundam the movie,

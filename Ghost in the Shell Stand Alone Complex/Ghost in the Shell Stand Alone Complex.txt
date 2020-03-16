@@ -1,6 +1,8 @@
 Ghost in the Shell: Stand Alone Complex
 https://anilist.co/anime/467/Koukaku-Kidoutai-Stand-Alone-Complex/
-2002
+2002,
+TV,
+Manga,
 Production I.G,
 Action, Sci-Fi,
 

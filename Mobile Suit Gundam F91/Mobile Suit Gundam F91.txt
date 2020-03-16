@@ -1,6 +1,10 @@
 Mobile Suit Gundam F91
-1991
 https://anilist.co/anime/88/Kidou-Senshi-Gundam-F91/
+1991,
+Movie,
+Original,
+Sunrise,
+Drama, Mecha, Sci-Fi,
 
 
 mobile suit gundam f91,

@@ -1,6 +1,11 @@
 Mazinger Z
 https://anilist.co/anime/2253/Mazinger-Z/
-1972
+1972,
+TV,
+Manga,
+Toei Animation,
+Action, Drama, Mecha, Sci-Fi,
+Go Nagai,
 
 
 Mazinger Z,

@@ -1,6 +1,8 @@
 Gintama°
 https://anilist.co/anime/20996/Gintama/
-2015
+2015,
+TV,
+Manga,
 Bandai Namco Pictures,
 Action, Comedy, Sci-Fi, Drama,
 Shonen Jump,

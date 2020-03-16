@@ -1,6 +1,10 @@
 Kyousougiga
 https://anilist.co/anime/19703/Kyousougiga-TV/
-2013
+2013,
+TV,
+Original,
+Toei Animation,
+Action, Fantasy, Supernatural,
 
 
 Kyousougiga,

@@ -1,6 +1,10 @@
 Mazinger Edition Z: The Impact!
 https://anilist.co/anime/5485/Shin-Mazinger-Shougeki-ZHen/
-2009
+2009,
+TV,
+Manga,
+Bee Media,
+Action, Mecha,
 
 
 shin mazinger,

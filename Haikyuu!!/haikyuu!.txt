@@ -1,6 +1,11 @@
 Haikyuu!!
 https://anilist.co/anime/20464/Haikyuu/
-2014
+2014,
+TV,
+Manga,
+Production I.G,
+Comedy, Drama, Sports, Action,
+Shonen Jump,
 
 
 Haikyu,

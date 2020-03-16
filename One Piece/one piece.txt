@@ -1,6 +1,11 @@
 One Piece
 https://anilist.co/anime/21/One-Piece/
-1999
+1999,
+TV,
+Manga,
+Toei Animation,
+Action, Adventure, Comedy, Drama, Fantasy,
+Shonen Jump,
 
 
 one piece,

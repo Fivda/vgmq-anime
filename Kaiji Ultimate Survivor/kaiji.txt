@@ -1,6 +1,11 @@
 Kaiji: Ultimate Survivor
 https://anilist.co/anime/3002/Gyakkyou-Burai-Kaiji-Ultimate-Survivor/
-2007
+2007,
+TV,
+Manga,
+MADHOUSE,
+DR Movie,
+Psychological, Thriller,
 
 
 kaiji,

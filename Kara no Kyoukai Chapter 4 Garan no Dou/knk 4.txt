@@ -1,6 +1,11 @@
 Kara no Kyoukai Chapter 4: Garan no Dou
 https://anilist.co/anime/4280/Kara-no-Kyoukai-Garan-no-Dou/
-2008
+2008,
+Movie,
+Light Novel,
+ufotable,
+Action, Mystery, Supernatural, Thriller,
+Type Moon,
 
 
 Kara no Kyoukai,

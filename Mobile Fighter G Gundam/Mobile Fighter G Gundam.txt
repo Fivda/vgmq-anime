@@ -1,6 +1,11 @@
 Mobile Fighter G Gundam
 https://anilist.co/anime/96/Kidou-Butouden-G-Gundam/
-1994
+1994,
+TV,
+Original,
+Sunrise,
+Adventure, Comedy, Drama, Mecha, Romance, Action,
+
 
 mobile fighter g gundam,
 mobile fighting legend g gundam,

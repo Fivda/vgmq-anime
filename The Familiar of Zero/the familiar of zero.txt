@@ -1,6 +1,10 @@
 The Familiar of Zero
 https://anilist.co/anime/1195/Zero-no-Tsukaima/
-2006
+2006,
+TV,
+Light Novel,
+J.C. Staff,
+Action, Adventure, Comedy, Ecchi, Fantasy,
 
 
 Zero no Tsukaima,

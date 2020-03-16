@@ -1,6 +1,10 @@
 Super Robot Wars OG: Divine Wars
 https://anilist.co/anime/1603/Super-Robot-Taisen-OG-Divine-Wars/
-2006
+2006,
+TV,
+Video Game,
+OLM,
+Action, Mecha, Sci-Fi,
 
 
 Super Robot Wars,

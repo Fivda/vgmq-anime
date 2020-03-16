@@ -1,6 +1,8 @@
 Ghost Sweeper GS Mikami
 https://anilist.co/anime/2400/Ghost-Sweeper-GS-Mikami
-1993
+1993,
+TV,
+Manga,
 Toei Animation,
 Comedy, Supernatural,
 

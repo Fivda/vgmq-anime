@@ -1,6 +1,11 @@
 Reborn!
 https://anilist.co/anime/1604/Kateikyoushi-Hitman-Reborn/
-2006
+2006,
+TV,
+Manga,
+Artland,
+Action, Comedy,
+Shonen Jump,
 
 
 Reborn,

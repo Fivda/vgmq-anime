@@ -1,6 +1,10 @@
 Rumbling Hearts
 https://anilist.co/anime/147/Kimi-ga-Nozomu-Eien/
-2003
+2003,
+TV,
+Visual Novel,
+Studio Fantasia,
+Drama, Romance, Slice of Life,
 
 
 Rumbling Hearts,

@@ -1,6 +1,11 @@
 Kimetsu no Yaiba
 https://anilist.co/anime/101922/Kimetsu-no-Yaiba/
-2019
+2019,
+TV,
+Manga,
+ufotable,
+Action, Adventure, Supernatural, Drama, Fantasy, Mystery,
+Shonen Jump,
 
 
 Kimetsu no Yaiba,

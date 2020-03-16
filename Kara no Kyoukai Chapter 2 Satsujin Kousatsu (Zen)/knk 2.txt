@@ -1,6 +1,11 @@
 Kara no Kyoukai Chapter 2: Satsujin Kousatsu (Zen)
 https://anilist.co/anime/3782/Kara-no-Kyoukai-Satsujin-Kousatsu-Zen/
-2007
+2007,
+Movie,
+Light Novel,
+ufotable,
+Action, Mystery, Romance, Supernatural, Thriller,
+Type Moon,
 
 
 Kara no Kyoukai,

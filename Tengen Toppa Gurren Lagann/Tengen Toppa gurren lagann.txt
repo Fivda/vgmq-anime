@@ -1,6 +1,11 @@
 Tengen Toppa Gurren Lagann 
 https://anilist.co/anime/2001/Tengen-Toppa-Gurren-Lagann/
-2007
+2007,
+TV,
+Original,
+Gainax,
+Action, Comedy, Mecha, Sci-Fi, Romance, Drama,
+Imaishi,
 
 
 Gurren Lagann,

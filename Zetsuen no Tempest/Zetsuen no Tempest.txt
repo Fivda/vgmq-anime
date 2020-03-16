@@ -1,6 +1,10 @@
 Zetsuen no Tempest
 https://anilist.co/anime/14075/Zetsuen-no-Tempest/
-2012
+2012,
+TV,
+Manga,
+BONES,
+Action, Drama, Fantasy, Mystery, Romance,
 
 
 Zetsuen no Tempest,

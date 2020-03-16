@@ -1,6 +1,10 @@
 Initial D 
 https://anilist.co/anime/185/Initial-D/
-1998
+1998,
+TV,
+Manga,
+Studio Comet, Studio Gallop,
+Sports, Action, Drama,
 
 
 Initial D,

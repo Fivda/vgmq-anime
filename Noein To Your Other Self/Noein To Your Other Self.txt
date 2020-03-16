@@ -1,6 +1,10 @@
 Noein: To Your Other Self
 https://anilist.co/anime/584/Noein-Mou-Hitori-no-Kimi-e/
-2005
+2005,
+TV,
+Original,
+Satelight,
+Adventure, Drama, Sci-Fi, Slice of Life, Psychological,
 
 
 noein,

@@ -1,6 +1,10 @@
 Rose of Versailles
 https://anilist.co/anime/338/Versailles-no-Bara/
-1979
+1979,
+TV,
+Manga,
+Tokyo Movie Shinsha,
+Adventure, Drama, Romance,
 
 
 Rose of Versailles,

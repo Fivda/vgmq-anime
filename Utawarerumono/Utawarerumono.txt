@@ -1,6 +1,10 @@
 Utawarerumono
 https://anilist.co/anime/856/Utawarerumono/
-2006
+2006,
+TV,
+Visual Novel, Video Game,
+OLM,
+Action, Drama, Fantasy, Sci-Fi,
 
 
 Utawarerumono,

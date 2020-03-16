@@ -5,6 +5,7 @@ Movie,
 Visual Novel,
 ufotable,
 Action, Fantasy, Psychological, Supernatural,
+Type Moon,
 
 
 Fate stay night Heaven's Feel,

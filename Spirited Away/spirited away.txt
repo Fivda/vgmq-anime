@@ -1,6 +1,10 @@
 Spirited Away
 https://anilist.co/anime/199/Sen-to-Chihiro-no-Kamikakushi/
-2001
+2001,
+Movie,
+Original,
+Studio Ghibli,
+Adventure, Drama, Romance, Supernatural, Fantasy,
 
 
 spirited away,

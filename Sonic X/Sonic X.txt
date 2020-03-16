@@ -1,6 +1,10 @@
 Sonic X
 https://anilist.co/anime/1816/Sonic-X/
-2003
+2003,
+TV,
+Video Game,
+TMS Entertainment,
+Adventure, Comedy, Mecha, Sci-Fi, Fantasy, Action,
 
 
 Sonic X,

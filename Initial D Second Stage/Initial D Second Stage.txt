@@ -1,6 +1,10 @@
 Initial D Second Stage
 https://anilist.co/anime/186/Initial-D-Second-Stage/
-1999
+1999,
+TV,
+Manga,
+Pastel,
+Sports, Action, Drama,
 
 
 Initial D,

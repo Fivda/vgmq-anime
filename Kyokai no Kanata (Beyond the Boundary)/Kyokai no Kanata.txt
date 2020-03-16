@@ -1,6 +1,10 @@
 Kyoukai no Kanata
 https://anilist.co/anime/18153/Kyoukai-no-Kanata/
-2013
+2013,
+TV,
+Light Novel,
+Kyoto Animation,
+Fantasy, Slice of Life, Supernatural, Drama,
 
 
 Kyoukai no Kanata,

@@ -1,6 +1,10 @@
 Shiki
 https://anilist.co/anime/7724/Shiki/
-2010
+2010,
+TV,
+Novel,
+Daume,
+Mystery, Supernatural, Thriller, Horror,
 
 
 Shiki,

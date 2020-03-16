@@ -1,6 +1,10 @@
 Metal Armor Dragonar
 https://anilist.co/anime/865/Kikou-Senki-Dragonar/
-1987
+1987,
+TV,
+Original,
+Sunrise,
+Adventure, Mecha, Sci-Fi,
 
 
 Metal Armor Dragonar,

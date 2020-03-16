@@ -1,6 +1,10 @@
 Persona 3 the Movie 4: Winter of Rebirth
 https://anilist.co/anime/21248/Persona-3-the-Movie-4-Winter-of-Rebirth/
-2016
+2016,
+Movie,
+Video Game,
+A-1 Pictures,
+Action, Fantasy, Supernatural,
 
 
 persona 3,

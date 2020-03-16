@@ -1,6 +1,8 @@
 Garo: The Animation
 https://anilist.co/anime/20753/Garo-Honoo-no-Kokuin/
-2014
+2014,
+TV,
+Other,
 MAPPA,
 Action, Fantasy, Supernatural,
 

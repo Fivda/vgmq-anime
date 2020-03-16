@@ -1,6 +1,10 @@
 Mobile Suit Gundam UC
 https://anilist.co/anime/6336/Kidou-Senshi-Gundam-UC/
-2010
+2010,
+OVA,
+Unknown Source,
+Sunrise,
+Action, Drama, Mecha, Sci-Fi,
 
 
 Mobile Suit Gundam Unicorn,

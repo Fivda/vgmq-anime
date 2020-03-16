@@ -1,6 +1,10 @@
 Mobile Suit Gundam SEED
 https://anilist.co/anime/93/Kidou-Senshi-Gundam-Seed/
-2002
+2002,
+TV,
+Original,
+Sunrise,
+Action, Mecha, Sci-Fi, Drama,
 
 
 Mobile Suit Gundam SEED,

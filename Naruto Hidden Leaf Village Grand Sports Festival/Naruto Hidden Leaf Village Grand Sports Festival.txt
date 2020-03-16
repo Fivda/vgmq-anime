@@ -1,6 +1,11 @@
 Naruto: Hidden Leaf Village Grand Sports Festival
 https://anilist.co/anime/2248/Naruto-Dai-Katsugeki-Yuki-Hime-Shinobu-Houjou-Dattebayo-Special-Konoha-Annual-Sports-Festival/
-2004
+2004,
+Special,
+Manga,
+Studio Pierrot,
+Action, Comedy, Fantasy,
+Shonen Jump,
 
 
 naruto,

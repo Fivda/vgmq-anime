@@ -1,6 +1,10 @@
 Pokémon
 https://anilist.co/anime/527/Pocket-Monsters/
-1997
+1997,
+TV,
+Video Game,
+OLM,
+Adventure, Comedy, Fantasy,
 
 
 pokemon,

@@ -1,6 +1,10 @@
 Parasyte ~the maxim~
 https://anilist.co/anime/20623/Kiseijuu-Sei-no-Kakuritsu/
-2014
+2014,
+TV,
+MAnga,
+MADHOUSE,
+Action, Drama, Horror, Psychological, Sci-Fi,
 
 
 Parasyte,

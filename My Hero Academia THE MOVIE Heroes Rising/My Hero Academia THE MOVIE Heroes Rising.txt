@@ -1,6 +1,11 @@
 My Hero Academia the Movie: Two Heroes
 https://anilist.co/anime/108553/Boku-no-Hero-Academia-the-Movie-Heroes-Rising/
-2019
+2019,
+Movie,
+Manga,
+BONES,
+Action, Adventure, Comedy,
+Shonen Jump,
 
 
 my hero academia,

@@ -1,6 +1,8 @@
 Neon Genesis Evangelion
 https://anilist.co/anime/30/Shin-Seiki-Evangelion/
-1995
+1995,
+TV,
+Original,
 Gainax, Tatsunoko Production,
 Action, Drama, Mecha, Psychological, Sci-Fi, Mystery,
 

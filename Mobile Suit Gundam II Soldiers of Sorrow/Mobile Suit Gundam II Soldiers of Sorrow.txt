@@ -1,6 +1,11 @@
 Mobile Suit Gundam II: Soldiers of Sorrow
 https://anilist.co/anime/1091/Kidou-Senshi-Gundam-II-Ai-Senshihen/
-1981
+1981,
+Movie,
+Original,
+Sunrise,
+Drama, Mecha, Sci-Fi, Action,
+
 
 mobile suit gundam,
 mobile suit gundam soldiers of sorrow,

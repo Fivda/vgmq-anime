@@ -1,6 +1,8 @@
 Gundam: Reconguista in G
 https://anilist.co/anime/20658/Gundam-G-no-Reconguista/
-2014
+2014,
+TV,
+Original,
 Sunrise,
 Action, Mecha, Sci-Fi,
 

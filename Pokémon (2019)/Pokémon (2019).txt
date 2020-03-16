@@ -1,6 +1,9 @@
 Pokémon (2019)
 https://anilist.co/anime/112153/Pocket-Monsters-2019/
-2019
+2019,
+TV,
+OLM,
+Adventure, Comedy, Fantasy,
 
 
 pokemon 2019,

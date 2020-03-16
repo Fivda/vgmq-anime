@@ -1,6 +1,10 @@
 Space Battleship Yamato 2199
 https://anilist.co/anime/12029/Uchuu-Senkan-Yamato-2199/
-2012
+2012,
+OVA,
+Manga,
+Xebec, AIC,
+Action, Drama, Sci-Fi,
 
 
 Space Battleship Yamato ,

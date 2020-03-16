@@ -1,6 +1,10 @@
 Kiki's Delivery Service
 https://anilist.co/anime/512/Majo-no-Takkyuubin/
-1989
+1989,
+Movie,
+Novel,
+Studio Ghibli,
+Adventure, Comedy, Drama, Romance, Slice of Life, Fantasy,
 
 
 Kiki's Delivery Service,

@@ -1,6 +1,10 @@
 Yu☆Gi☆Oh! Duel Monsters
 https://anilist.co/anime/481/YuGiOh-Duel-Monsters/
-2000
+2000,
+TV,
+Manga,
+Studio Gallop,
+Adventure,
 
 
 Yu-Gi-Oh,

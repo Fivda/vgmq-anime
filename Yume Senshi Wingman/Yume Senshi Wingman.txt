@@ -1,6 +1,10 @@
 Yume Senshi Wingman
 https://anilist.co/anime/3021/Yume-Senshi-Wingman/
-1984
+1984,
+TV,
+Manga,
+Toei Animation,
+Action, Comedy, Romance,
 
 
 Wingman,

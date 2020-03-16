@@ -1,6 +1,10 @@
 Laputa: Castle in the Sky
 https://anilist.co/anime/513/Tenkuu-no-Shiro-Laputa/
-1986
+1986,
+Movie,
+Original,
+Studio Ghibli,
+Adventure, Fantasy, Romance, Sci-Fi,
 
 
 Laputa Castle in the Sky,

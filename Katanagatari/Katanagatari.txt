@@ -1,6 +1,10 @@
 Katanagatari
 https://anilist.co/anime/6594/Katanagatari/
-2010
+2010,
+TV,
+Light Novel,
+White Fox,
+Action, Adventure, Romance,
 
 
 Katanagatari,

@@ -1,8 +1,11 @@
 Getter Robo: Armageddon
 https://anilist.co/anime/978/Change-Getter-Robo-Sekai-Saigo-no-Hi/
-1998
+1998,
+OVA,
+Original,
 Brain's Base,
 Action, Adventure, Horror, Mecha, Sci-Fi,
+Go Nagai,
 
 
 Getter Robo Armageddon,

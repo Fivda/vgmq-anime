@@ -1,6 +1,8 @@
 Shuffle!
 https://anilist.co/anime/79/Shuffle/
-2005
+2005,
+TV,
+Visual Novel,
 Asread,
 Comedy, Drama, Ecchi, Fantasy, Romance,
 

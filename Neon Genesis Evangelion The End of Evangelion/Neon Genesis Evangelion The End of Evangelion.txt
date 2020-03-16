@@ -1,6 +1,10 @@
 Neon Genesis Evangelion: The End of Evangelion
 https://anilist.co/anime/32/Shin-Seiki-Evangelion-Movie-THE-END-OF-EVANGELION/
-1997
+1997,
+Movie,
+Original,
+Gainax, Production I.G,
+Drama, Mecha, Psychological, Sci-Fi, Action,
 
 
 The End of Evangelion,

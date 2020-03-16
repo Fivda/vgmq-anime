@@ -1,6 +1,10 @@
 Mobile Suit Gundam Seed C.E.73: Stargazer
 https://anilist.co/anime/1215/Kidou-Senshi-Gundam-SEED-CE73-Stargazer/
-2006
+2006,
+ONA,
+Unknown Source,
+Sunrise,
+Mecha, Sci-Fi,
 
 
 Mobile Suit Gundam SEED,

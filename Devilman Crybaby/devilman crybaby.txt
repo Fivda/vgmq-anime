@@ -5,6 +5,7 @@ ONA,
 Manga,
 Science SARU,
 Horror, Supernatural, Action, Drama, Psychological,
+Go Nagai,
 
 
 devilman crybaby,

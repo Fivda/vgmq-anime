@@ -1,6 +1,10 @@
 Kizumonogatari II: Nekketsu-hen
-2016
 https://anilist.co/anime/21399/Kizumonogatari-II-Nekketsuhen/
+2016,
+Movie,
+Light Novel,
+Shaft,
+Action, Mystery, Supernatural, Ecchi, Comedy, Drama, Psychological,
 
 
 kizumonogatari,

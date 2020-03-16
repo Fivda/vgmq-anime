@@ -1,6 +1,10 @@
 Noragami
 https://anilist.co/anime/20447/Noragami/
-2014
+2014,
+TV,
+Manga,
+BONES,
+Action, Adventure, Supernatural, Comedy,
 
 
 Noragami,

@@ -1,6 +1,10 @@
 Mobile Suit Gundam Wing Endless Waltz (Movie)
 https://anilist.co/anime/2273/Shin-Kidou-Senki-Gundam-W-Endless-Waltz/
-1998
+1998,
+Movie,
+Original,
+Sunrise,
+Action, Drama, Mecha, Sci-Fi,
 
 
 Mobile Suit Gundam Wing,

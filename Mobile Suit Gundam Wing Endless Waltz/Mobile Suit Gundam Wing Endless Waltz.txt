@@ -1,6 +1,10 @@
 Mobile Suit Gundam Wing Endless Waltz
 https://anilist.co/anime/91/Shin-Kidou-Senki-Gundam-Wing-Endless-Waltz/
-1997
+1997,
+OVA,
+Original,
+Sunrise,
+Action, Drama, Mecha, Sci-Fi,
 
 
 Mobile Suit Gundam Wing,

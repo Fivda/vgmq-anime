@@ -1,6 +1,8 @@
 Great Teacher Onizuka
 https://anilist.co/anime/245/Great-Teacher-Onizuka/
-1999
+1999,
+TV,
+Manga,
 Studio Pierrot,
 Comedy, Drama, Slice of Life,
 

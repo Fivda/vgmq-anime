@@ -1,6 +1,10 @@
 Venus Wars
 https://anilist.co/anime/544/Venus-Senki/
-1989
+1989,
+Movie,
+Manga,
+Triangle Staff,
+Action, Adventure, Sci-Fi,
 
 
 Venus Wars,

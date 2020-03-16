@@ -1,6 +1,8 @@
 Gintama' Enchousen
 https://anilist.co/anime/15417/Gintama-Enchousen/
-2012
+2012,
+TV,
+Manga,
 Sunrise,
 Action, Comedy, Sci-Fi, Drama,
 Shonen Jump,

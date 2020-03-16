@@ -1,6 +1,8 @@
 Ginga Densetsu Weed
 https://anilist.co/anime/915/Ginga-Densetsu-Weed/
-2005
+2005,
+TV,
+Manga,
 Unknown Studio,
 Adventure, Drama,
 

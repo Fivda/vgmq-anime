@@ -1,6 +1,8 @@
 Goku Sayonara Zetsubou Sensei
 https://anilist.co/anime/4872/Goku-Sayonara-Zetsubou-Sensei/
-2008
+2008,
+OVA,
+Manga,
 Shaft,
 Comedy,
 

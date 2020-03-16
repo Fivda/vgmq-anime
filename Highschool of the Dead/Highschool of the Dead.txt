@@ -1,6 +1,10 @@
 Highschool of the Dead
 https://anilist.co/anime/8074/Gakuen-Mokushiroku-HIGHSCHOOL-OF-THE-DEAD/
-2010
+2010,
+TV,
+Manga,
+MADHOUSE,
+Action, Ecchi, Horror, Supernatural, Romance,
 
 
 Highschool of the Dead,

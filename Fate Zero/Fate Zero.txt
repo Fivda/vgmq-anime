@@ -5,6 +5,7 @@ TV,
 Light Novel,
 ufotable,
 Action, Fantasy, Supernatural,
+Type Moon,
 
 
 fate zero,

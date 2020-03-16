@@ -1,6 +1,10 @@
 Sayonara Zetsubou Sensei
 https://anilist.co/anime/2605/Sayonara-Zetsubou-Sensei/
-2007
+2007,
+TV,
+Manga,
+Shaft,
+Comedy,
 
 
 Sayonara Zetsubou Sensei,

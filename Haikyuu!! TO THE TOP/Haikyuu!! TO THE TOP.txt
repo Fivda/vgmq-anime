@@ -1,6 +1,11 @@
 Haikyuu!! TO THE TOP
 https://anilist.co/anime/106625/Haikyuu-TO-THE-TOP/
-2020
+2020,
+TV,
+Manga,
+Production I.G,
+Comedy, Drama, Sports,
+Shonen Jump,
 
 
 Haikyu,

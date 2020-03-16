@@ -1,6 +1,10 @@
 Working!!
 https://anilist.co/anime/6956/Working/
-2010
+2010,
+TV,
+Manga,
+A-1 Pictures,
+Comedy, Slice of Life,
 
 
 working,

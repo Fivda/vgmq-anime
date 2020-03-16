@@ -1,6 +1,10 @@
 Sailor Moon
 https://anilist.co/anime/530/Bishoujo-Senshi-Sailor-Moon/
-1992
+1992,
+TV,
+Manga,
+Toei Animation,
+Romance, Mahou Shoujo, Fantasy, Action,
 
 
 Sailor Moon,

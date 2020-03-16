@@ -1,6 +1,8 @@
 Welcome to the N.H.K.!
 https://anilist.co/anime/1210/NHK-ni-Youkoso/
-2006
+2006,
+TV,
+Novel,
 GONZO,
 Comedy, Drama, Psychological, Romance,
 

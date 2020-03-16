@@ -1,6 +1,10 @@
 Mobile Suit Gundam: The 08th MS Team
 https://anilist.co/anime/81/Kidou-Senshi-Gundam-Dai-08-MS-Shotai/
-1996
+1996,
+OVA,
+Original,
+Sunrise,
+Adventure, Drama, Mecha, Romance, Sci-Fi,
 
 
 Mobile Suit Gundam The 08th MS Team,

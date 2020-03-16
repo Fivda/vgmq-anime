@@ -1,6 +1,11 @@
 Wolf Children
 https://anilist.co/anime/12355/Ookami-Kodomo-no-Ame-to-Yuki/
-2012
+2012,
+Movie,
+Original,
+MADHOUSE, Studio Chizu,
+Fantasy, Slice of Life, Romance, Drama,
+Hosoda,
 
 
 Wolf Children,
