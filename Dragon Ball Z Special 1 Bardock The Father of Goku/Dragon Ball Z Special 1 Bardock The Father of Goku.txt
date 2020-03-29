@@ -5,6 +5,7 @@ Special,
 Manga,
 Toei Animation,
 Adventure, Comedy, Sci-Fi,
+Shonen Jump,
 
 
 dragon ball z,

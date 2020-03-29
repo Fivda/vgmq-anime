@@ -4,7 +4,7 @@ https://anilist.co/anime/2904/Code-Geass-Hangyaku-no-Lelouch-R2/
 TV,
 Original,
 Sunrise,
-Action, Drama, Mecha, Sci-Fi, Thriller
+Action, Drama, Mecha, Sci-Fi, Thriller,
 
 
 Code Geass,
