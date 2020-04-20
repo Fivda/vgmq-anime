@@ -1,6 +1,6 @@
 Sailor Moon
-https://anilist.co/anime/530/Bishoujo-Senshi-Sailor-Moon/
-1992,
+https://anilist.co/anime/740/Bishoujo-Senshi-Sailor-Moon-R
+1993,
 TV,
 Manga,
 Toei Animation,
@@ -8,6 +8,10 @@ Romance, Mahou Shoujo, Fantasy, Action,
 
 
 Sailor Moon,
+
+Sailor Moon R,
+Bishoujo Senshi Sailor Moon R,
+
 Bishoujo Senshi Sailor Moon,
 Bishojo Senshi Sailor Moon,
 Pretty Soldier Sailor Moon,

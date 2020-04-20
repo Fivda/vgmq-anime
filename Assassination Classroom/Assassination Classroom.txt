@@ -9,3 +9,5 @@ Action, Comedy, Supernatural,
 
 Assassination Classroom,
 Ansatsu Kyoushitsu,
+Ansatsu Kyoshitsu,
+
