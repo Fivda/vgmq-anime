@@ -7,9 +7,9 @@ MADHOUSE, DR Movie,
 Psychological, Thriller, Sports,
 
 
+kaiji,
 kaiji 2,
 Kaiji Against All Rules,
-kaiji,
 Gyakkyou Burai Kaiji,
 Against All Rules,
 Gyakkyou Burai Kaiji Against All Rules,

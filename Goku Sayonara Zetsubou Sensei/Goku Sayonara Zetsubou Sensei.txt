@@ -9,9 +9,13 @@ Comedy,
 
 Sayonara Zetsubou Sensei,
 Sayonara Zetsubo Sensei,
+Zetsubou Sensei,
+Zetsubo Sensei,
 Goodbye Teacher Despair,
-Goodbye Mr. Despair,
+Goodbye Mr Despair,
+Goodbye Mister Despair,
+Sayonara Monsieur Désespoir
 
-Goku Sayonara Zetsubou Sensei
+Goku Sayonara Zetsubou Sensei,
+Goku Sayonara Zetsubo Sensei,
 Sayonara Zetsubou Sensei OAD,
-Goodbye Mr. Despair OVA,
