@@ -7,6 +7,7 @@ Studio Pierrot,
 Adventure, Comedy, Sci-Fi,
 
 
+sonic,
 Sonic The Hedgehog,
 Sonic The Hedgehog The Movie,
 Sonic The Hedgehog OVA,

@@ -10,3 +10,4 @@ Imaishi,
 
 Space Patrol Luluco,
 uchuu patrol luluco,
+luluco,
