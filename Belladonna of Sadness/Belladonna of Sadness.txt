@@ -4,9 +4,15 @@ https://anilist.co/anime/3220/Kanashimi-no-Belladonna/
 Movie,
 Other,
 Mushi Productions,
-Drama, Psychological,
+Drama, Psychological,experimental,erotic,
 
 
 Belladonna of Sadness,
+belladonna,
+beradonna,
 Kanashimi no Belladonna,
+kanashimi no beradonna,
 The Tragedy of Belladonna,
+belladonna la sorciere,
+la belladone de la tristesse,
+belladone de la tristesse,

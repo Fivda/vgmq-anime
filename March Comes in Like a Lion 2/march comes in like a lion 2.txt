@@ -7,6 +7,14 @@ Shaft,
 Drama, Slice of Life,
 
 
+march comes in like a lion,
+3-gatsu no Lion,
+3gatsu no lion,
+3 gatsu no lion,
+sangatsu no Lion,
+san-gatsu no Lion,
+san gatsu no lion,
+
 march comes in like a lion 2,
 3-gatsu no Lion 2,
 3gatsu no lion 2,
@@ -15,11 +23,5 @@ sangatsu no Lion 2,
 san-gatsu no Lion 2,
 san gatsu no lion 2,
 
-march comes in like a lion,
-3-gatsu no Lion,
-3gatsu no lion,
-3 gatsu no lion,
-sangatsu no Lion,
-san-gatsu no Lion,
-san gatsu no lion,
+
 

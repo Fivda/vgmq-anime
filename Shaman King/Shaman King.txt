@@ -5,6 +5,7 @@ TV,
 Manga,
 Xebec,
 Action, Adventure, Comedy, Drama, Supernatural,
+Shonen Jump,
 
 
 Shaman King,
