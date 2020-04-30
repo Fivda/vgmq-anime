@@ -7,8 +7,10 @@ Shaft,
 Drama, Mahou Shoujo, Psychological, Thriller, Action, Fantasy,
 
 
-Mahou Shoujo Madoka Magika,
+Mahou Shoujo Madoka Magica,
+maho shojo madoka magica,
+madoka magica,
 Puella Magi Madoka Magica,
 Magical Girl Madoka Magica,
-madoka magica,
-maho shojo madoka magica,
+Mahou Shoujo Madoka Magika,
+Maho Shojo Madoka Magika,
