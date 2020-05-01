@@ -1,4 +1,4 @@
-Re: Hamatora
+Re:_HAMATORA
 https://anilist.co/anime/20711/Re-HAMATORA
 2014,
 TV,
@@ -11,4 +11,5 @@ hamatora,
 Hamatora The Animation,
 Re Hamatora,
 re_hamatora,
+rehamatora,
 Hamatora The Animation Season 2,

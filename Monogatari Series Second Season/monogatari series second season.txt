@@ -18,8 +18,10 @@ Nekomonogatari Shiro
 //////
 Kabukimonogatari
 //////
-Otorimonogatari
+Otorimonogatari,
+nadeko medusa,
 //////
 Onimonogatari
 //////
 Koimonogatari
+/////

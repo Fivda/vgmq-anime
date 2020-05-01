@@ -9,3 +9,4 @@ Action, Comedy, Drama, Sci-Fi, Supernatural, Ecchi,
 
 Fire Force,
 Enen no Shoubotai,
+enen no shobotai,

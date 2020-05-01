@@ -6,6 +6,7 @@ Manga,
 Studio Gallop, Studio DEEN, 
 Action, Adventure, Comedy, Romance,
 
+
 Rurouni Kenshin,
 Rurouni Kenshin Meiji Kenkaku Romantan,
 Meiji Kenkaku Romantan,
