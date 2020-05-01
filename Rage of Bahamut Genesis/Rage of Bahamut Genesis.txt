@@ -4,7 +4,7 @@ https://anilist.co/anime/20590/Shingeki-no-Bahamut-GENESIS/
 TV,
 Other,
 MAPPA,
-Action, Fantasy, Supernatural, Adventure;
+Action, Fantasy, Supernatural, Adventure,
 
 
 Rage of Bahamut,

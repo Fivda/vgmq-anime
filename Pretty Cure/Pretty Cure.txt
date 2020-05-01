@@ -8,4 +8,5 @@ Adventure, Comedy, Fantasy, Mahou Shoujo,
 
 
 Pretty Cure,
+precure,
 Futari wa Precure,

@@ -2,6 +2,9 @@ Magical Girl Lyrical Nanoha StrikerS
 https://anilist.co/anime/1915/Mahou-Shoujo-Lyrical-Nanoha-StrikerS/
 2007,
 TV,
+Original,
+Seven Arcs,
+Action, Comedy, Drama, Mahou Shoujo,
 
 
 Lyrical Nanoha,
@@ -13,4 +16,3 @@ Lyrical Nanoha StrikerS,
 Magical Girl Lyrical Nanoha StrikerS,
 Mahou Shoujo Lyrical Nanoha StrikerS,
 Maho Shojo Lyrical Nanoha StrikerS,
-nanoha season 3,
