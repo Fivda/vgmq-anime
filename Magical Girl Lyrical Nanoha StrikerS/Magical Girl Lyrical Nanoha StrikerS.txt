@@ -8,11 +8,13 @@ Action, Comedy, Drama, Mahou Shoujo,
 
 
 Lyrical Nanoha,
+nanoha,
 Magical Girl Lyrical Nanoha,
 Mahou Shoujo Lyrical Nanoha,
 Maho Shojo Lyrical Nanoha,
 
 Lyrical Nanoha StrikerS,
+nanoha strikers,
 Magical Girl Lyrical Nanoha StrikerS,
 Mahou Shoujo Lyrical Nanoha StrikerS,
 Maho Shojo Lyrical Nanoha StrikerS,
