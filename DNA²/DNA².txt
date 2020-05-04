@@ -6,9 +6,11 @@ Manga,
 MADHOUSE, Studio DEEN,
 Comedy, Romance, Sci-Fi,
 
+
 dna 2,
 dna2,
 DNA²,
 DNA ²,
 DNA Squared,
 Dokokade Nakushita Aitsuno Aitsu,
+dokokade nakushita aitsu no aitsu,
