@@ -7,7 +7,7 @@ Studio DEEN,
 Comedy, Mecha, Sci-Fi,
 
 
-Mobile Police Patlabor
+Mobile Police Patlabor,
 patlabor,
 Kidou Keisatsu Patlabor,
 Kido Keisatsu Patlabor,

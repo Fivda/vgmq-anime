@@ -7,7 +7,7 @@ Sunrise,
 Action, Comedy, Drama, Fantasy, Mecha, Romance,
 
 
-my hime
+my hime,
 my-hime,
 mai hime,
 mai-hime,

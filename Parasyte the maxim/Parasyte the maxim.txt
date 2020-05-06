@@ -1,4 +1,4 @@
-Parasyte ~the maxim~
+Parasyte -the maxim-
 https://anilist.co/anime/20623/Kiseijuu-Sei-no-Kakuritsu/
 2014,
 TV,
@@ -12,8 +12,9 @@ Parasyte the maxim,
 Parasite the maxim,
 Parasite,
 Kiseijuu Sei no Kakuritsu,
-Kiseijuu,
 Kiseiju Sei no Kakuritsu,
+Kiseijuu,
+kiseiju,
 Sei no Kakuritsu,
 Parasite La maxime,
 Parasyte La maxime,
