@@ -5,6 +5,8 @@ TV,
 Original,
 Toei Animation,
 Action, Adventure, Comedy, Fantasy, Sci-Fi,
+shonen jump,
+dragon ball,
 
 
 Dragon Ball GT,

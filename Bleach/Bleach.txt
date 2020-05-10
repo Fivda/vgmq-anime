@@ -6,6 +6,7 @@ Manga,
 Studio Pierrot,
 Action, Comedy, Supernatural, Drama,
 Shonen Jump,
+bleach,
 
 
 Bleach,

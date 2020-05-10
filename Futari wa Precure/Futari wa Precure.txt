@@ -5,6 +5,7 @@ TV,
 Original,
 Toei Animation,
 Adventure, Comedy, Fantasy, Mahou Shoujo,
+precure,
 
 
 precure,

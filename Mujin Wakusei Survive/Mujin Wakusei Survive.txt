@@ -7,6 +7,6 @@ MADHOUSE,Telecom Animation Film,
 Action, Adventure, Fantasy, Sci-Fi, Slice of Life,
 
 
-Mujin Wakusei Survive
+Mujin Wakusei Survive,
 uninhabited planet survive,
 Planet Survival,

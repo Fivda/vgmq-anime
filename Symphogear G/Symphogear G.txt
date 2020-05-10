@@ -5,6 +5,7 @@ TV,
 Original,
 Satelight,
 Action, Music, Sci-Fi, Mahou Shoujo,
+symphogear,
 
 
 Symphogear,

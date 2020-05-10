@@ -5,3 +5,13 @@ TV,
 Original,
 Satelight,
 Action, Music, Sci-Fi, Mahou Shoujo,
+symphogear,
+
+
+Symphogear,
+Senki Zesshou Symphogear,
+Senki Zessho Symphogear,
+
+Symphogear xv,
+Senki Zesshou Symphogear xv,
+Senki Zessho Symphogear xv,

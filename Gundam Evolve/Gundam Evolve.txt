@@ -5,6 +5,7 @@ OVA,
 Original,
 Sunrise,
 Action, Mecha,
+gundam,
 
 
 Gundam Evolve,

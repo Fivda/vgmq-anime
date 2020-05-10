@@ -5,6 +5,7 @@ TV,
 Original,
 Toei Animation,
 Fantasy, Mahou Shoujo,
+precure,
 
 
 Yes Precure 5,

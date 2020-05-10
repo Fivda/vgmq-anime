@@ -4,7 +4,8 @@ https://anilist.co/anime/98059/KirakiraPrecure-a-la-Mode/
 TV,
 Original,
 Toei Animation,
-Mahou Shoujo, Fantasy, Slice of Life, Comedy
+Fantasy, Slice of Life, Comedy, Mahou Shoujo,
+precure,
 
 
 kirakira precure a la mode,

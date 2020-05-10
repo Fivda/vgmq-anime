@@ -5,6 +5,7 @@ TV,
 Original,
 Sunrise,
 Action, Adventure, Drama, Mecha, Sci-Fi,
+gundam,
 
 
 Mobile Suit Gundam Wing,

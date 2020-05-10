@@ -5,6 +5,7 @@ OVA,
 Unknown Source,
 Sunrise,
 Action, Drama, Mecha, Sci-Fi,
+gundam,
 
 
 Mobile Suit Gundam Unicorn,

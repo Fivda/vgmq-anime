@@ -5,6 +5,7 @@ TV,
 Original,
 Toei Animation,
 Mahou Shoujo,
+precure,
 
 
 healin' good precure,

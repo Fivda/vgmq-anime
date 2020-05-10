@@ -5,6 +5,7 @@ TV,
 Original,
 Sunrise,
 Adventure, Drama, Mecha, Sci-Fi,
+gundam,
 
 
 After War Gundam X,

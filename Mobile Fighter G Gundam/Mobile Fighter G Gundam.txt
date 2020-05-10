@@ -5,6 +5,7 @@ TV,
 Original,
 Sunrise,
 Adventure, Comedy, Drama, Mecha, Romance, Action,
+gundam,
 
 
 mobile fighter g gundam,

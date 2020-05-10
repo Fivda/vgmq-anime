@@ -5,6 +5,7 @@ TV,
 Original,
 Sunrise,
 Action, Mecha, Sci-Fi,
+gundam,
 
 
 Mobile Suit Gundam AGE,

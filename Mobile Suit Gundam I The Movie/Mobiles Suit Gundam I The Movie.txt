@@ -5,6 +5,7 @@ Movie,
 Original,
 Sunrise,
 Action, Adventure, Drama, Mecha, Sci-Fi,
+gundam,
 
 
 mobile suit gundam,

@@ -8,8 +8,11 @@ Action, Horror, Sci-Fi,
 
 
 The Guyver,
+guyver,
 The Guyver Bio-Booster Armor,
+Guyver Bio-Booster Armor,
 the Guyver Bio Booster Armor,
+Guyver Guyver Bio-Booster Armor,
 Bio-Booster Armor,
 Bio Booster Armor,
 Bio-Booster Armor,

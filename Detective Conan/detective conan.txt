@@ -6,6 +6,7 @@ Manga,
 TMS Entertainment,
 Adventure, Comedy, Mystery, Psychological,
 Shonen Jump,
+conan,
 
 
 Detective Conan,

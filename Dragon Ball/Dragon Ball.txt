@@ -5,7 +5,8 @@ TV,
 Manga,
 Toei Animation,
 Adventure, Comedy, Fantasy, Action,
-Shonen Jump,
+shonen jump,
+dragon ball,
 
 
 Dragon Ball,

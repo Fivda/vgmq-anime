@@ -5,6 +5,7 @@ TV,
 Original,
 Sunrise,
 Drama, Mecha, Romance, Sci-Fi,
+gundam,
 
 
 Mobile Suit Gundam SEED,

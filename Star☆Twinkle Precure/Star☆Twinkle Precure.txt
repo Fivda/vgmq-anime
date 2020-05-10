@@ -4,8 +4,8 @@ https://anilist.co/anime/105857/StarTwinkle-Precure/
 TV,
 Original,
 Toei Animation,
-Mahou Shoujo, Sci-Fi, Adventure, Fantasy,
-
+Sci-Fi, Adventure, Fantasy, Mahou Shoujo,
+precure,
 
 Star Twinkle Precure,
 star twinkle pretty cure,

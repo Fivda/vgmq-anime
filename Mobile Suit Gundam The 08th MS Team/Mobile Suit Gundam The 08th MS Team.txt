@@ -5,6 +5,7 @@ OVA,
 Original,
 Sunrise,
 Adventure, Drama, Mecha, Romance, Sci-Fi,
+gundam,
 
 
 Mobile Suit Gundam The 08th MS Team,

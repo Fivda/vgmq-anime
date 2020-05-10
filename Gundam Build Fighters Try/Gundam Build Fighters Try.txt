@@ -5,6 +5,7 @@ TV,
 Original,
 Sunrise,
 Mecha,
+gundam,
 
 
 Gundam Build Fighters,

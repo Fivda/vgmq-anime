@@ -7,4 +7,4 @@ A-1 Pictures,
 Action, Adventure, Fantasy, Romance,
 
 
-Sword Art Online
+Sword Art Online,

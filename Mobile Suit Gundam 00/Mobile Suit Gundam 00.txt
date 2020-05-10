@@ -5,6 +5,7 @@ TV,
 Original,
 Sunrise,
 Action, Drama, Mecha, Sci-Fi,
+gundam,
 
 
 Mobile Suit Gundam 00,

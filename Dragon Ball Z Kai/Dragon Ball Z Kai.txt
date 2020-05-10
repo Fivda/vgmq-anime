@@ -5,6 +5,8 @@ TV,
 Manga,
 Toei Animation,
 Action, Adventure, Comedy,
+shonen jump,
+dragon ball,
 
 
 Dragon Ball Z Kai,

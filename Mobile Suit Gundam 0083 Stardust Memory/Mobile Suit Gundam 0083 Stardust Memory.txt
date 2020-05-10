@@ -5,6 +5,7 @@ OVA,
 Original,
 Sunrise,
 Adventure, Drama, Mecha, Sci-Fi,
+gundam,
 
 
 mobile suit gundam 0083,

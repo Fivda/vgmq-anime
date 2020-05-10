@@ -5,6 +5,8 @@ Movie,
 Manga,
 Toei Animation,
 Adventure, Comedy, Sci-Fi,
+shonen jump,
+dragon ball,
 
 
 dragon ball z,

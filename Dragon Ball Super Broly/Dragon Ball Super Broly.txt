@@ -5,7 +5,8 @@ Movie,
 Manga,
 Toei Animation,
 Action, Adventure,
-Shonen Jump,
+shonen jump,
+dragon ball,
 
 
 Dragon Ball Super Broly,

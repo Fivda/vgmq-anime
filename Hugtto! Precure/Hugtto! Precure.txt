@@ -4,7 +4,8 @@ https://anilist.co/anime/100661/Hugtto-Precure/
 TV,
 Original,
 Toei Animation,
-Mahou Shoujo, Action, Fantasy,
+Action, Fantasy, Mahou Shoujo,
+precure,
 
 
 Hugtto Precure,

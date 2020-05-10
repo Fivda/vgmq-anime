@@ -6,6 +6,7 @@ Manga,
 Studio Pierrot,
 Action, Comedy,
 Shonen Jump,
+naruto,
 
 
 naruto,

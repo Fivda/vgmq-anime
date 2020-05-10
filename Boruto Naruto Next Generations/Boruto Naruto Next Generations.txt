@@ -5,7 +5,8 @@ TV,
 Manga,
 Studio Pierrot,
 Action, Adventure,
-
+Shonen Jump,
+naruto,
 
 boruto,
 Boruto Naruto Next Generations,

@@ -5,6 +5,7 @@ TV,
 Original,
 Sunrise,
 Drama, Mecha, Sci-Fi, Action,
+gundam,
 
 
 Mobile Suit GUNDAM Iron Blooded Orphans,
