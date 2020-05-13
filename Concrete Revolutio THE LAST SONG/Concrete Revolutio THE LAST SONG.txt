@@ -6,6 +6,7 @@ Original,
 BONES,
 Action, Sci-Fi,
 
+
 concrete revolutio,
 Concrete Revolutio Choujin Gensou,
 Concrete Revolutio Chojin Genso,

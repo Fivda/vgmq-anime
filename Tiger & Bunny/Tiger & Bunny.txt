@@ -9,4 +9,3 @@ Action, Comedy, Mystery,
 
 Tiger and Bunny,
 tiger & bunny,
-tiger et bunny,

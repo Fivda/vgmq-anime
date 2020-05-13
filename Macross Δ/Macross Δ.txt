@@ -4,8 +4,9 @@ https://anilist.co/anime/20680/Macross-/
 TV,
 Original,
 Sateligth,
+Action, Mecha, Music, Romance, Sci-Fi,
 
 
 macross delta,
 macross d,
-macross Δ,
+macross δ,
