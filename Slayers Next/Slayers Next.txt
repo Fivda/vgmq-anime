@@ -1,4 +1,4 @@
-The Slayers Next
+Slayers Next
 https://anilist.co/anime/535/Slayers-Next
 1996,
 TV,
@@ -7,7 +7,9 @@ E&G Films,
 Adventure, Comedy, Fantasy,
 
 
+slayers,
+slayers next,
 the slayers,
-slayers next,
 the slayers next,
-slayers next,
+slayers tv,
+the slayers tv,

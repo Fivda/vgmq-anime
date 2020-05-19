@@ -1,4 +1,4 @@
-The Slayers
+Slayers
 https://anilist.co/anime/534/Slayers/
 1995,
 TV,
@@ -7,7 +7,7 @@ E&G Films,
 Adventure, Comedy, Fantasy,
 
 
-The Slayers,
 slayers,
-The Slayers tv,
 slayers tv,
+The Slayers,
+The Slayers tv,

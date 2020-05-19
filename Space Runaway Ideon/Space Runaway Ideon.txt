@@ -7,7 +7,7 @@ Sunrise,
 Drama, Mecha, Sci-Fi,
 
 
-Space Runaway Ideon
+Space Runaway Ideon,
 ideon,
 Densetsu Kyojin Ideon,
 Legendary Giant-God Ideon,

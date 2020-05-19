@@ -9,13 +9,22 @@ Type Moon,
 
 
 Kara no Kyoukai,
+Kara no Kyokai,
 Kara no Kyoukai 7,
+Kara no Kyokai 7,
 Kara no Kyoukai chapter 7,
+Kara no Kyokai chapter 7,
 Kara no Kyoukai movie 7,
+Kara no Kyokai movie 7,
 Kara no Kyoukai Satsujin Kousatsu kou,
+Kara no Kyokai Satsujin Kosatsu ko,
 Kara no Kyoukai Satsujin Kousatsu,
-Satsujin Kousatsu,
+Kara no Kyokai Satsujin Kosatsu,
 Satsujin Kousatsu kou,
+Satsujin Kosatsu ko,
+Satsujin Kousatsu,
+Satsujin Kosatsu,
+
 
 The Garden of Sinners,
 The Garden of Sinners 7,
