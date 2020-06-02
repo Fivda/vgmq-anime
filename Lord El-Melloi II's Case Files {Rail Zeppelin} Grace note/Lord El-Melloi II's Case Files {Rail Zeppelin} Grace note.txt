@@ -5,7 +5,7 @@ TV,
 Light Novel,
 TROYCA,
 Mystery, Fantasy, Drama, Supernatural,
-type-moon,
+type moon,
 
 Lord El-Melloi 2,
 Lord El Melloi 2,
