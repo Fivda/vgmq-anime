@@ -7,5 +7,6 @@ Toei Animation,
 Fantasy, Mahou Shoujo,
 precure,
 
+
 suite precure,
 suite pretty cure,

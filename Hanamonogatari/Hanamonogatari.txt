@@ -5,6 +5,7 @@ TV,
 Light Novel,
 Shaft,
 Drama, Mystery, Psychological, Supernatural,
+monogatari series,
 
 
 Hanamonogatari,

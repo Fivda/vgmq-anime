@@ -2,6 +2,9 @@ Soukyuu no Fafner: Dead Aggressor: The Beyond
 https://anilist.co/anime/98056/Soukyuu-no-Fafner-Dead-Aggressor--The-Beyond/
 2019,
 Movie,
+Original,
+Xebec Zwei,
+Drama, Mecha, Sci-Fi,
 
 
 fafner the beyond,

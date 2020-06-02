@@ -1,9 +1,10 @@
 Emma: A Victorian Romance
 https://anilist.co/anime/345/Emma-A-Victorian-Romance/
-200,
+2005,
 TV,
 Manga,
 Studio Pierrot,
+Drama, Romance, Slice of Life,
 
 
 emma,

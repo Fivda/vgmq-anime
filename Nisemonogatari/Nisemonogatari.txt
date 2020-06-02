@@ -5,6 +5,7 @@ TV,
 Light Novel,
 Shaft,
 Comedy, Drama, Mystery, Supernatural, Ecchi, Psychological,
+monogatari series,
 
 
 Nisemonogatari,

@@ -8,6 +8,4 @@ Action, Adventure, Fantasy, Horror, Psychological, Drama,
 
 
 Akame ga Kill,
-Akame ga Kill!,
 Akame ga Kiru,
-Akame ga Kiru!,

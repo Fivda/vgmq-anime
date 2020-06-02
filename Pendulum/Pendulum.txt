@@ -1,7 +1,7 @@
 Pendulum
 https://anilist.co/anime/13629/Pendulum/
 2012,
-Special,
+music clip,
 Original,
 Unknown Studio,
 Drama, Music, Romance, Slice of Life,

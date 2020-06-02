@@ -7,6 +7,8 @@ Zero-G,
 Comedy, Romance,
 
 
-Science Fell in Love, So I Tried to Prove It,
+Science Fell in Love So I Tried to Prove It,
 Rikei ga Koi ni Ochita no de Shoumei shitemita,
 rikekoi,
+rikeikoi,
+

@@ -4,7 +4,8 @@ https://anilist.co/anime/21049/ReLIFE/
 TV,
 Manga,
 TMS Entertainment,
-Comedy, Drama, Romance, Slice of Life
+Comedy, Drama, Romance, Slice of Life,
 
 
 ReLIFE,
+re life,

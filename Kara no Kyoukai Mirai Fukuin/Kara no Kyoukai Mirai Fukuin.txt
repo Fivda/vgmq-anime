@@ -1,9 +1,15 @@
 Kara no Kyoukai: Mirai Fukuin
 https://anilist.co/anime/14807/Kara-no-Kyoukai-Mirai-Fukuin
+2013,
+Movie,
+Light Novel,
+ufotable,
+Drama, Mystery, Supernatural,
+type-moon,
 
 
 kara no kyoukai,
-kara no kyokai
+kara no kyokai,
 Kara no Kyoukai Mirai Fukuin,
 Kara no Kyokai Mirai Fukuin,
 Mirai Fukuin,

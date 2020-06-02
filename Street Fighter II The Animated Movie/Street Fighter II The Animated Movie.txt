@@ -8,7 +8,7 @@ Action,
 
 
 street fighter 2,
-street fighter ii
+street fighter ii,
 street fighter 2 the movie,
 Street Fighter II The Movie,
 street fighter 2 movie,

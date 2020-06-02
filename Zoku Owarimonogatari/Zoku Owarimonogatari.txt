@@ -5,6 +5,7 @@ OVA,
 Light Novel,
 Shaft,
 Drama, Mystery, Supernatural,
+monogatari series,
 
 
 Zoku Owarimonogatari,

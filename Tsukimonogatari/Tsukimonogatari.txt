@@ -5,6 +5,7 @@ TV,
 Light Novel,
 Shaft,
 Comedy, Mystery, Supernatural, Ecchi,
+monogatari series,
 
 
 Tsukimonogatari,

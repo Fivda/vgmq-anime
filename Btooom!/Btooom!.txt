@@ -8,4 +8,3 @@ Action, Psychological, Sci-Fi,
 
 
 btoom,
-Btooom!,

@@ -9,6 +9,6 @@ Adventure, Comedy, Drama, Fantasy,
 
 Digimon,
 Digimon tamers,
-digimon 4,
-digimon season 4,
+digimon 3,
+digimon season 3,
 Digimon Digital Monsters 03,

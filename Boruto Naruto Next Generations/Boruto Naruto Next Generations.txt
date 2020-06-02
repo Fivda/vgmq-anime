@@ -8,6 +8,7 @@ Action, Adventure,
 Shonen Jump,
 naruto,
 
+
 boruto,
 Boruto Naruto Next Generations,
 naruto next generations,

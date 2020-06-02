@@ -5,6 +5,7 @@ TV,
 Light Novel,
 Shaft,
 Mystery, Romance, Psychological, Supernatural, Drama, Comedy,
+monogatari series,
 
 
 bakemonogatari,

@@ -5,6 +5,7 @@ TV,
 Light Novel,
 Shaft,
 Comedy, Mystery, Supernatural, Romance, Psychological,
+monogatari series,
 
 
 owarimonogatari,

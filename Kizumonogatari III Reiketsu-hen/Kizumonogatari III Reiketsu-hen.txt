@@ -5,6 +5,7 @@ Movie,
 Light Novel,
 Shaft,
 Action, Mystery, Supernatural, Ecchi, Psychological, Drama,
+monogatari series,
 
 
 kizumonogatari,
