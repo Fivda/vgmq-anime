@@ -10,5 +10,6 @@ Action, Sci-Fi,
 A Certain Scientific Accelerator,
 certain scientific accelerator,
 Toaru Kagaku no Accelerator,
+To aru Kagaku no Accelerator,
 
 

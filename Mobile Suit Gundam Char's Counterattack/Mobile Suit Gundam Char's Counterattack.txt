@@ -13,4 +13,4 @@ kidou senshi gundam,
 kidou senshi gundam char's counterattack,
 mobile suit gundam char's counterattack,
 char's counterattack,
-gundam
+gundam,

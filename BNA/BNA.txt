@@ -7,5 +7,6 @@ Trigger,
 Fantasy,
 
 
-BNA,
 Brand New Animal,
+BNA,
+bna brand new animal,
