@@ -9,3 +9,4 @@ Action, Adventure, Comedy, Ecchi, Fantasy,
 
 Zero no Tsukaima,
 The Familiar of Zero,
+familiar of zero,
