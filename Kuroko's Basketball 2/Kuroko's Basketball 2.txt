@@ -5,6 +5,7 @@ TV,
 Manga,
 Production I.G,
 Comedy, Sports,
+shonen jump,
 
 
 kuroko's basket,

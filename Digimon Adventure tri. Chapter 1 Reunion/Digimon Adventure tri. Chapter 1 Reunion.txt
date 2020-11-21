@@ -8,9 +8,12 @@ Action, Adventure, Comedy, Drama, Fantasy,
 
 
 digimon adventure tri,
+digimon tri,
+digimon tri 1,
 Digimon Adventure tri Chapter 1 Reunion,
 Digimon Adventure tri Chapter 1,
 digimon adventure tri 1 reunion,
+digimon adventure tri reunion,
 digimon adventure tri 1,
 
 Digimon Adventure tri 1 Saikai,

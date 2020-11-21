@@ -7,8 +7,10 @@ Visual Novel,
 Drama, Romance, Psychological, Ecchi,
 
 
+grisaia,
 The Fruit of Grisaia,
 Fruit of Grisaia,
 Grisaia no Kajitsu,
 Le Fruit De La Grisaia,
 Fruit De La Grisaia,
+	
