@@ -7,6 +7,9 @@ OLM, P.A. Works,
 Drama, Music, Mystery, Sci-Fi,
 
 
+professor layton,
+professeur layton,
+profesor layton,
 Professor Layton and the Eternal Diva,
 Professor Layton & the Eternal Diva,
 the Eternal Diva,
