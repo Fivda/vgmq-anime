@@ -8,6 +8,7 @@ Adventure, Comedy, Drama, Supernatural,
 
 
 Saiyuki,
+saiyuuki,
 Gensou Maden Saiyuuki,
 Genso Maden Saiyuuki,
 Gensoumaden Saiyuki,

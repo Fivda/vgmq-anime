@@ -1,9 +1,10 @@
-Dimension W
+	Dimension W
 https://anilist.co/anime/21256/Dimension-W/
 2016,
 TV,
 Manga,
 Studio 3Hz, Orange,
 Action, Sci-Fi,
+
 
 Dimension W,

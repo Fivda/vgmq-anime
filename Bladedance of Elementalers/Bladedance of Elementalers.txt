@@ -7,6 +7,8 @@ TNK,
 Action, Comedy, Ecchi, Fantasy, Romance, Supernatural,
 
 
+Bladedance,
+blade dance,
 Bladedance of Elementalers,
 Blade dance of Elementalers,
 Seirei Tsukai no Blade Dance,
