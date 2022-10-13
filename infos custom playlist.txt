@@ -2,7 +2,7 @@
 
 
 FORMAT /////
-TV, TV Short, Movie, Special, OVA, ONA, Music (music clip)
+TV, TV Short, Movie, Special, OVA, ONA, music clip
 
 
 SOURCE /////

@@ -5,3 +5,6 @@ TV,
 Manga,
 CloverWorks,
 Comedy, Romance, Slice of Life,
+
+
+Horimiya,

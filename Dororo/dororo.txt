@@ -1,10 +1,12 @@
 Dororo
-https://anilist.co/anime/101347/Dororo/
-2019,
+https://anilist.co/anime/5760/Dororo/
+1969,
 TV,
 Manga,
-MAPPA, Tezuka Productions,
-Action, Adventure, Drama, Supernatural,
+Mushi Productions,
+Action, Adventure, Supernatural,
 
 
-Dororo,
+dororo,
+Dororo to Hyakkimaru,
+dororo and hyakkimaru,

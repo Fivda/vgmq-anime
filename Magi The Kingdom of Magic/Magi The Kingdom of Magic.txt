@@ -17,6 +17,6 @@ magi,
 Magi The Labyrinth of Magic 2,
 Magi Labyrinth of Magic 2,
 The Labyrinth of Magic 2,
-Labyrinth of Magic, 2
+Labyrinth of Magic 2,
 magi 2,
 

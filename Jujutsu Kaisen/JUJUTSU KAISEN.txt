@@ -5,6 +5,7 @@ TV,
 Manga,
 MAPPA,
 Action, Comedy, Drama, Supernatural,
+shonen jump,
 
 
 JUJUTSU KAISEN,
