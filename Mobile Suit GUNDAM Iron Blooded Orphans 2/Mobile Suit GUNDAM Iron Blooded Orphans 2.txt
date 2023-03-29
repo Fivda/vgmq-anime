@@ -4,8 +4,7 @@ https://anilist.co/anime/21749/Kidou-Senshi-Gundam-Tekketsu-no-Orphans-2/
 TV,
 Original,
 Sunrise,
-Action, Drama, Mecha, Sci-Fi,
-gundam,
+Action, Drama, Mecha, Sci-Fi, gundam,
 
 
 Mobile Suit GUNDAM Iron Blooded Orphans,
