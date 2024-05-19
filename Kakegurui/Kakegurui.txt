@@ -9,7 +9,7 @@ Drama, Mystery, Psychological,
 
 Kakegurui,
 Gambling School,
-Kakegurui Compulsive Gambler
+Kakegurui Compulsive Gambler,
 Compulsive Gambler,
 Kakegurui Das Leben ist ein Spiel,
 Das Leben ist ein Spiel,

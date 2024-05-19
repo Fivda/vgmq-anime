@@ -4,8 +4,7 @@ https://anilist.co/anime/104459/Yuru-Camp-SEASON-2
 TV,
 Manga,
 c-station,
-comedy,
-slice of life,
+comedy, slice of life,
 
 
 yuru camp,

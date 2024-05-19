@@ -4,8 +4,7 @@ https://anilist.co/anime/10495/Yuru-Yuri
 TV,
 Manga,
 Doga Kobo,
-Comedy,
-Slice of Life,
+Comedy, Slice of Life,
 
 
 yuru yuri,
