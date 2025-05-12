@@ -7,5 +7,5 @@ Toei Animation,
 Action, Adventure, Fantasy, Horror, Mystery, Sci-Fi
 
 
-Digimon Ghost Game,
 Digimon,
+Digimon Ghost Game,

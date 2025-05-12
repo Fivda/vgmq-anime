@@ -7,5 +7,6 @@ Toei Animation,
 Action, Adventure, Comedy, Drama, Fantasy, Sci-Fi,
 
 
+digimon,
 Digimon Savers,
 digimon data squad,

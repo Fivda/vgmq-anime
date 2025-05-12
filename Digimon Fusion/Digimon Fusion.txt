@@ -7,5 +7,6 @@ Toei Animation,
 Action, Adventure, Comedy, Fantasy,
 
 
+digimon,
 digimon fusion,
 Digimon Xros Wars,
