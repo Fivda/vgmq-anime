@@ -10,7 +10,6 @@ Drama, Mecha, Psychological, Sci-Fi, Action,
 The End of Evangelion,
 Neon Genesis Evangelion The End of Evangelion,
 Neon Genesis Evangelion End of Evangelion,
-End of Evangelion,
 Shin Seiki Evangelion Movie THE END OF EVANGELION,
 Shin Seiki Evangelion Movie,
 
@@ -21,6 +20,8 @@ Pour les musiques des 20 premières minutes
 
 Neon Genesis Evangelion Death & Rebirth,
 Death & Rebirth,
+Neon Genesis Evangelion Death and Rebirth,
+Death and Rebirth,
 Shin Seiki Evangelion Gekijouban Shi to Shinsei,
 Shi to Shinsei,
 Evangelion Death True,

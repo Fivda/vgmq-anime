@@ -13,8 +13,7 @@ Senki Zesshou Symphogear,
 Senki Zessho Symphogear,
 
 
-Symphogear azx,
-Senki Zesshou Symphogear azx,
-Senki Zessho Symphogear azx,
+Symphogear axz,
 senki zesshou symphogear axz,
 senki zessho symphogear axz,
+senki zesshou symphogear 4,

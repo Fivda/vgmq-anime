@@ -14,15 +14,19 @@ monogatari series,
 
 
 //////
-Nekomonogatari
-Nekomonogatari Shiro
+Nekomonogatari,
+Nekomonogatari Shiro,
+Tsubasa Tiger,
 //////
-Kabukimonogatari
+Kabukimonogatari,
+Mayoi Jianghi,
 //////
 Otorimonogatari,
 nadeko medusa,
 //////
-Onimonogatari
+Onimonogatari,
+Shinobu Time,
 //////
-Koimonogatari
+Koimonogatari,
+Hitagi End,
 /////
